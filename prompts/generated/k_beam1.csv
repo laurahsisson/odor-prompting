@@ -1,0 +1,1714 @@
+('{descriptor} lemon zest', 14)			0.943021529646917
+('{descriptor} umami flavor enhancer', 10)			0.9383954552158491
+('{descriptor} watercress', 11)			0.9360042417709187
+('{descriptor} orange peel', 24)			0.9313527156826495
+('{descriptor} parmesan cheese', 13)			0.9239207578962133
+('{descriptor} green hazelnut', 17)			0.9217262609344272
+('{descriptor} fatty', 11)			0.9208903910640851
+('{descriptor} warm coco winey', 11)			0.9198329042342015
+('{descriptor} pear fondant', 13)			0.9170233175827147
+('{descriptor} black tea peanut', 13)			0.9164056865491887
+('{descriptor} siberian pine', 14)			0.9094148824352866
+('{descriptor} lavender colognes', 13)			0.9083835503972019
+('{descriptor} american cheese', 16)			0.9039533634489774
+('{descriptor} jasmine', 12)			0.9028215257549927
+('{descriptor} cauliflower', 17)			0.9022983861659847
+('{descriptor} mixture', 12)			0.9016486957892681
+('{descriptor} sweet spicy coconut vanilla', 13)			0.899984030680886
+('{descriptor} many floral fragrances', 15)			0.8987496762859644
+('{descriptor} bitter almond', 13)			0.8986229842753632
+('{descriptor} lemon blossom', 12)			0.8980412265043718
+('{descriptor} herbal rosemary', 13)			0.896674837858711
+('{descriptor} sweet incense', 23)			0.8964455414873113
+('{descriptor} citrus vanilla', 11)			0.895741560604742
+('{descriptor} raw potato skin', 20)			0.8956565429915839
+('{descriptor} somewhat harsh chemical', 18)			0.894380545679311
+('{descriptor} green tea', 14)			0.8926541945712092
+('{descriptor} fresh cucumber', 19)			0.8922787618101001
+('{descriptor} seaweed', 13)			0.8921016325583925
+('{descriptor} red berries', 12)			0.8909987735085418
+('{descriptor} fresh volatilenotes', 10)			0.8906636465402388
+('{descriptor} cheddar cheese', 10)			0.8901739171388043
+('{descriptor} woody spicy aromatic', 14)			0.8895942656576008
+('{descriptor} flavor', 9)			0.8890564779104569
+('{descriptor} usage', 8)			0.8888712478744809
+('{descriptor} sugar cane', 19)			0.8886969177153603
+('{descriptor} chili peach', 10)			0.8883798935298229
+('{descriptor} delicate floral jasmine', 10)			0.8883206378279778
+('{descriptor} aromatic top', 8)			0.8870794393677488
+('{descriptor} nutmeg', 16)			0.8845373093703447
+('{descriptor} black tea sake', 10)			0.8843262846222625
+('{descriptor} gelatin', 14)			0.8842464934408345
+('{descriptor} milk', 14)			0.8838130676332129
+('{descriptor} resin', 10)			0.8828893126308076
+('{descriptor} caramel', 11)			0.8825022872272676
+('{descriptor} its lactonic jasmine effect', 18)			0.8819854178222499
+('{descriptor} some flavouring agent', 21)			0.8817350126981437
+('{descriptor} fried onion', 12)			0.8807352656579982
+('{descriptor} guaac wood', 10)			0.8802619810712277
+('{descriptor} marshmallow', 13)			0.8783908301508184
+('{descriptor} slight creamy cheese type', 10)			0.875824148999615
+('{descriptor} cacao bean', 13)			0.875795429744691
+('{descriptor} fruit pulp', 12)			0.8756548281562442
+('{descriptor} savory products', 8)			0.8737618137233323
+('{descriptor} almond blossom', 15)			0.8727540676952371
+('{descriptor} sour fruity cheese taste', 17)			0.8723680555205008
+('{descriptor} peppermint', 11)			0.8711795381767173
+('{descriptor} dry cloth', 9)			0.8708154263486617
+('{descriptor} boston lettuce', 22)			0.8705467010207388
+('{descriptor} turkish rose petal', 12)			0.8704983399343773
+('{descriptor} cooked cauliflower', 17)			0.8701302357413767
+('{descriptor} mouthfeel taste', 14)			0.869904193183317
+('{descriptor} watermelon', 21)			0.869251277231351
+('{descriptor} vegetable flavors', 9)			0.8691468159604585
+('{descriptor} excellent synergy', 9)			0.868783250348535
+('{descriptor} exalting effect', 10)			0.868120328720321
+('{descriptor} vegetable', 10)			0.8662459119333861
+('{descriptor} hazelnut', 13)			0.8659190594801995
+('{descriptor} olibanum dry spicy cedar', 12)			0.8647061405723304
+('{descriptor} orange blossom', 13)			0.8645848017146759
+('{descriptor} tolu balsam', 12)			0.8640543067036714
+('{descriptor} key odorants', 12)			0.863857951923148
+('{descriptor} woody waxy leather', 13)			0.8638451614392559
+('{descriptor} cucumber', 14)			0.8637353113952455
+('{descriptor} other sweet fragrances', 12)			0.8635580831131576
+('{descriptor} golden poppy', 14)			0.8631469376968475
+('{descriptor} floral muguet', 11)			0.8625662009001033
+('{descriptor} very diffusive jasmine celery seed', 16)			0.8624151703709971
+('{descriptor} cashmere musk', 13)			0.8610952843206301
+('{descriptor} grapefruit peel', 17)			0.8609574791311749
+('{descriptor} interesting woody', 11)			0.8608948697893601
+('{descriptor} deep herbal green spicy leafy valerian', 14)			0.8602031631954531
+('{descriptor} somewhat sweet hydrocarbon', 10)			0.8600141169367586
+('{descriptor} soft candy', 18)			0.8597944978193093
+('{descriptor} passion fruit typical top', 13)			0.858962056019871
+('{descriptor} extremely dry woods', 11)			0.8582555152970184
+('{descriptor} cassia buds', 18)			0.857520529599019
+('{descriptor} warm sand', 21)			0.8571125541225999
+('{descriptor} delicate moist rose petal tone', 14)			0.8568979162869181
+('lard type flavors {descriptor}', 10)			0.8566464495463083
+('{descriptor} nearly odorless when pure slightly bitter taste', 17)			0.8565053845799422
+('{descriptor} perfumery', 15)			0.8559680834677652
+('{descriptor} herbal green fennel root beer', 8)			0.855451906490938
+('{descriptor} floral wax', 14)			0.8553589062695655
+('{descriptor} dried apricot', 22)			0.8551419802810647
+('{descriptor} acidic woody burnt meaty whiskey', 8)			0.8545760868747823
+('{descriptor} candy', 19)			0.8542523034528018
+('eg especially pineapple berry flavors {descriptor}', 8)			0.854013516613791
+('{descriptor} pink musk', 13)			0.8536852207203922
+('{descriptor} fresh ripe guava', 23)			0.8534045614822112
+('{descriptor} lavender and', 15)			0.8530790445928768
+('{descriptor} aromatic', 20)			0.852659658598557
+('{descriptor} grassy characteristic', 8)			0.8522408778339419
+('{descriptor} potato chips', 15)			0.8520305767758559
+('fruit flavours {descriptor}', 11)			0.8517978346997508
+('{descriptor} pineapple', 17)			0.8510359481074625
+('{descriptor} sour milk', 8)			0.8509897631940426
+('{descriptor} hot pungent', 13)			0.8506185968796833
+('{descriptor} blue absinthe', 10)			0.8504868733826538
+('{descriptor} these flavouring agent', 13)			0.8498689303752004
+('{descriptor} tangerine', 13)			0.849357443955201
+('{descriptor} yellow passionfruit', 14)			0.8486890981277238
+('{descriptor} cinnamic acid', 11)			0.8479827885845781
+('{descriptor} salted butter caramel', 17)			0.8473067161028159
+('spicy earthy herbaceous {descriptor}', 11)			0.8466936064184245
+('{descriptor} root beer', 9)			0.8457924636595046
+('{descriptor} flavorist', 10)			0.8455831337816998
+('{descriptor} vanilla absolute', 7)			0.8443256660717622
+('{descriptor} bog blueberry', 12)			0.8437132694224709
+('{descriptor} beet sugar liquor', 12)			0.8430399356680256
+('{descriptor} midnight jasmine', 8)			0.8424716660837104
+('{descriptor} clementine', 13)			0.8416504855414453
+('{descriptor} laundry', 9)			0.8416271964604658
+('{descriptor} shampoo', 10)			0.8415146547314087
+('{descriptor} savoury flavours', 11)			0.8414689133148279
+('{descriptor} various diallyl polysufides', 13)			0.8409321414363039
+('{descriptor} fresh green aromatic', 20)			0.8408224563732261
+('{descriptor} cheeses', 8)			0.8399354558211358
+('{descriptor} dried fruit', 14)			0.8392890083432311
+('{descriptor} latex', 11)			0.8391421805145806
+('{descriptor} ethereal spicy green grassy aldehydic cooked apple cognac', 23)			0.8389305978066497
+('{descriptor} red fruits', 12)			0.8386066852086765
+('{descriptor} bland', 10)			0.8385059461062045
+('{descriptor} slight bitter aftertaste', 24)			0.8381884173763358
+('fresh herbal phenolic metallic rosemary tobacco {descriptor}', 9)			0.8381383221298442
+('{descriptor} particularly bergamot', 18)			0.837678654254709
+('{descriptor} precious woods', 9)			0.8374812660319261
+('{descriptor} metallic effect', 11)			0.8364297038090511
+('{descriptor} creamy waxy fruity earthy fatty faintly soapy parsley', 16)			0.8363233328033152
+('{descriptor} apricot musk', 12)			0.8361748148327768
+('{descriptor} sichuan pepper', 13)			0.8356855146716138
+('{descriptor} mouthwashes', 7)			0.8356441298312955
+('{descriptor} coconut candy flavors', 18)			0.835163566199675
+('{descriptor} chinese honeysuckle', 7)			0.8351177323825383
+('{descriptor} tobacco', 11)			0.8349681928204544
+('{descriptor} baked apple', 14)			0.8349178924962235
+('spike lavender {descriptor}', 8)			0.8348381831175
+('{descriptor} white red wines', 13)			0.8343373010043301
+('{descriptor} ginger lily', 10)			0.833918621451696
+('{descriptor} dried fruits', 18)			0.8338272597881567
+('{descriptor} white grapefruit', 20)			0.8337850621112788
+('{descriptor} pink lavender', 13)			0.8336101411456264
+('{descriptor} musk animal', 9)			0.8326493516342932
+('{descriptor} birch tar', 8)			0.8318844806561856
+('{descriptor} russian tea', 22)			0.8315836513900825
+('{descriptor} macadamia nut', 11)			0.831472571147934
+('{descriptor} green currant', 8)			0.8313056938976302
+('{descriptor} plants', 21)			0.8312103002481777
+('{descriptor} indian cardamom', 15)			0.8301800384892266
+('{descriptor} absolute fenugreek', 11)			0.8300136269038993
+('{descriptor} fruity citrus lemon', 18)			0.8295533243423746
+('{descriptor} artemisia', 12)			0.8294496555453564
+('{descriptor} cooked', 15)			0.8288132538939876
+('{descriptor} lychee blossom', 12)			0.8287709024028592
+('{descriptor} potato', 17)			0.8287039718109144
+('{descriptor} sulfury onion garlic pineapple rum vegetable', 9)			0.8284700623957963
+('{descriptor} roastad', 9)			0.8284296027434878
+('{descriptor} pear', 11)			0.8277257038602838
+('{descriptor} earthy', 14)			0.8274484583192641
+('{descriptor} vodka citron', 12)			0.827284812661871
+('{descriptor} may chang spicy', 12)			0.8266323042387526
+('{descriptor} cream', 13)			0.8263206628272891
+('{descriptor} use levels', 23)			0.8258119711046619
+('{descriptor} sugar', 12)			0.8257100031176772
+('{descriptor} evaluation', 9)			0.8252998569028369
+('{descriptor} body', 11)			0.8249102804889842
+('{descriptor} sweet benzaldehyde cherry', 8)			0.824888689074178
+('{descriptor} animal', 18)			0.8246099547581451
+('{descriptor} sweet woody floral herbaceous taste', 16)			0.8242846320859891
+('{descriptor} dewberry', 10)			0.8240745426404824
+('{descriptor} description', 9)			0.8239302952455566
+('{descriptor} bourbon whiskey', 8)			0.8238359605759262
+('{descriptor} cashmere wood', 21)			0.8234339435262077
+('{descriptor} juniper', 10)			0.8233952058455861
+('{descriptor} sweet orangeflower tuberose', 14)			0.8232980992765895
+('fruity green watery {descriptor}', 7)			0.8227508838316062
+('{descriptor} wild orchid', 14)			0.8227329893253235
+('{descriptor} siberian deer musk', 9)			0.8225593594700745
+('{descriptor} hedion', 13)			0.8223620746185492
+('{descriptor} bay leaves', 11)			0.822328252120879
+('{descriptor} guerlinade', 17)			0.8212273844070274
+('{descriptor} incense', 21)			0.8208323574468541
+('{descriptor} combination', 14)			0.8200878485397622
+('characteristic aroma components {descriptor}', 9)			0.8197820668928282
+('{descriptor} hazelnut popcorn', 10)			0.819466936759518
+('{descriptor} myrtle', 8)			0.8190801920475433
+('{descriptor} mercapto methylpentan ol', 10)			0.8186992909275255
+('{descriptor} beefy brothy', 12)			0.81855784988788
+('{descriptor} celery', 10)			0.8184903058334304
+('{descriptor} beverages', 20)			0.8182216618314624
+('{descriptor} cider spirits', 13)			0.8181881828217313
+('{descriptor} salty skin', 12)			0.8179843962409366
+('{descriptor} hay effect', 7)			0.8179462813620086
+('{descriptor} ozonic', 10)			0.8178486382714596
+('{descriptor} apple', 10)			0.8178338763497037
+('{descriptor} methyl nonyl acetaldehyde', 12)			0.8177237467723174
+('{descriptor} waxy effect', 17)			0.8177003685914058
+('woody oceanic watery spicy clove {descriptor}', 12)			0.8175268765226339
+('{descriptor} caviar', 17)			0.8171875930424388
+('{descriptor} orangeflower', 11)			0.8171128085715643
+('vanilla hazelnut {descriptor}', 10)			0.8170894368127101
+('{descriptor} copahu wood', 10)			0.8168003213566578
+('{descriptor} cognac', 14)			0.8166809095036738
+('{descriptor} berries', 24)			0.8166154694441421
+('{descriptor} amyris', 9)			0.8165443918848413
+('{descriptor} fragrance formulas', 11)			0.8165201064308385
+('{descriptor} wine lactone', 19)			0.8164799531116522
+('{descriptor} pungent acrid roquefort cheese', 13)			0.8161140821188553
+('{descriptor} peach caviar', 9)			0.815707415830867
+('{descriptor} orchid', 16)			0.815213166809121
+('{descriptor} nutty almond vegetable', 7)			0.8152107865041051
+('{descriptor} toasted bread', 8)			0.815130456040492
+('{descriptor} flower', 12)			0.8149407296406347
+('{descriptor} garlic', 9)			0.8145002688853227
+('{descriptor} grape', 10)			0.8141100294713242
+('{descriptor} aromatic fruity herbal', 15)			0.8136856459232475
+('{descriptor} fractionation', 16)			0.812604240168372
+('{descriptor} ink', 7)			0.8121096025454851
+('{descriptor} oakmoss absolute low atranol', 14)			0.8114933391969735
+('{descriptor} damascus rose', 7)			0.8114856547157268
+('{descriptor} strawberry', 9)			0.8114168848554062
+('{descriptor} anoverdose', 11)			0.8111994579469554
+('{descriptor} chinese water daphne', 20)			0.8109716872732171
+('{descriptor} candyfloss', 18)			0.8106988628540243
+('{descriptor} realism', 12)			0.810685719235549
+('{descriptor} medicinal', 18)			0.8106269264906963
+('{descriptor} lemon', 23)			0.8103437788435933
+('{descriptor} citrus orange mandarin', 19)			0.8101977730116126
+('{descriptor} star anise', 6)			0.8099679553153598
+('{descriptor} fig leaf', 10)			0.8098567305957632
+('{descriptor} coffee', 9)			0.8095659127973183
+('{descriptor} panettone bread', 15)			0.8084805900294404
+('{descriptor} red apple', 10)			0.8084486431877476
+('{descriptor} royal leather', 20)			0.8082972432825957
+('{descriptor} peat fire white truffle', 10)			0.8082742426491039
+('{descriptor} more tropical impression', 6)			0.8081703126415325
+('{descriptor} hay', 9)			0.8081655679439601
+('{descriptor} african balsam', 12)			0.8079927211201081
+('{descriptor} sweet heavy floral honey', 14)			0.8079529299536194
+('{descriptor} ebony', 10)			0.8079088778439675
+('{descriptor} white sagebrush', 11)			0.8077666547198319
+('{descriptor} floral musk', 9)			0.8076748034030096
+('{descriptor} leather', 23)			0.8073476205091447
+('{descriptor} vomit', 11)			0.8073189128369549
+('{descriptor} pungent mustard', 9)			0.806978682225789
+('{descriptor} verbena', 8)			0.8066269845270061
+('{descriptor} rice straw', 13)			0.806087570157056
+('{descriptor} powerful green grass', 13)			0.8057972745222737
+('{descriptor} fifty ninth sixty first sixty third', 11)			0.8057172208604264
+('{descriptor} ketonic', 9)			0.8056664454041602
+('{descriptor} honey beeswax', 13)			0.8055052347859698
+('odorless {descriptor}', 12)			0.8052223007696027
+('{descriptor} instant coffee', 11)			0.8051232999026925
+('{descriptor} white tea', 8)			0.8048759098042035
+('{descriptor} rtd teas', 11)			0.8048130945767066
+('{descriptor} tropical fruit flavors', 12)			0.8044189296515369
+('{descriptor} fresh linalyl acetate patchouli', 15)			0.8044035977818578
+('{descriptor} malty cereal', 11)			0.8042069185237621
+('all requested flavouring agent {descriptor}', 6)			0.8041574363013302
+('{descriptor} scotch spearmint', 16)			0.8041474975892471
+('{descriptor} submission', 7)			0.804110946762757
+('{descriptor} red grapefruit', 7)			0.8040646777188734
+('{descriptor} hydroxy', 21)			0.803899828328611
+('{descriptor} dilution', 22)			0.803823049649679
+('{descriptor} rose absolute aspect', 13)			0.8038006761374532
+('{descriptor} vanilla orchid', 13)			0.8036666546285718
+('{descriptor} impression', 8)			0.8036506269487474
+('{descriptor} fewer', 12)			0.8036275548528207
+('{descriptor} muguet', 17)			0.803577676130274
+('{descriptor} lime', 17)			0.8033827886436806
+('{descriptor} hesperidic flowers', 7)			0.8031632193979539
+('aroma {descriptor}', 16)			0.8027174285608332
+('{descriptor} jasmine absolute', 4)			0.8023771087036347
+('{descriptor} fruity hyacinth', 10)			0.8023402960375011
+('{descriptor} jasmine sambac', 5)			0.80194577757308
+('sweet woody balsamic {descriptor}', 14)			0.8016333004076248
+('{descriptor} oriental fragrancesthe', 11)			0.8016185602766557
+('{descriptor} common fragrance', 6)			0.8013535309324662
+('{descriptor} green leafy green stems earthy wet sharp lemony arcadi boix camps', 13)			0.8011607647016572
+('{descriptor} snack', 9)			0.800931915620259
+('{descriptor} lime compositions', 7)			0.8005557503843976
+('{descriptor} heavier fragrances', 9)			0.8004165465767128
+('{descriptor} peach blossom', 16)			0.8003074599109639
+('{descriptor} quince', 13)			0.8000985199634749
+('{descriptor} masking activities', 11)			0.7996792946223432
+('{descriptor} immortelle', 12)			0.7995222756107012
+('water jasmine {descriptor}', 11)			0.7991499580269336
+('{descriptor} honeysuckle', 16)			0.7988385091443571
+('{descriptor} methylbutyl amine', 12)			0.7987338786280277
+('{descriptor} roast', 14)			0.7987289654424452
+('{descriptor} artifacts', 5)			0.7986071282732562
+('{descriptor} water hyacinth', 18)			0.7984699075084738
+('{descriptor} indian saffron', 10)			0.7982285512954109
+('{descriptor} burning bitter taste', 21)			0.7982083948027439
+('{descriptor} white chocolate peppermint bark', 14)			0.7981363287090621
+('{descriptor} warm balsamic spicy', 23)			0.7977295394383295
+('{descriptor} tomato taste', 7)			0.7973169780702927
+('{descriptor} green bell pepper', 18)			0.7971577406897942
+('{descriptor} alcoholic beverages', 5)			0.797028290661848
+('{descriptor} chicken', 15)			0.7969026202871363
+('{descriptor} raspberry', 17)			0.7968877170873251
+('{descriptor} blood orange', 17)			0.7965690067801826
+('{descriptor} its way', 12)			0.7965082635265994
+('{descriptor} lichen', 15)			0.7962100430315736
+('{descriptor} subtle floral hawthornanise', 8)			0.7957419951351894
+('orange peppermint {descriptor}', 11)			0.795522081005884
+('{descriptor} sandal', 9)			0.7954509495932385
+('{descriptor} substantially more pleasant', 7)			0.7953154065581247
+('{descriptor} daisy', 16)			0.7952351955233371
+('{descriptor} very dark reddish orange brown viscous mass', 12)			0.7948279315449112
+('{descriptor} mushroom', 7)			0.7945747776023218
+('{descriptor} all kinds', 18)			0.7943071519213672
+('cheese flavors {descriptor}', 6)			0.793940992585393
+('{descriptor} black spruce', 11)			0.7938730363687617
+('{descriptor} bog myrtle', 11)			0.793766112856228
+('{descriptor} savory', 18)			0.7935390817921368
+('woody spicy nutmeg {descriptor}', 11)			0.7934810991877829
+('rich {descriptor}', 11)			0.7931068003947517
+('{descriptor} red delicious apple', 22)			0.7928414913689038
+('{descriptor} granny smith apple', 14)			0.7927382566612095
+('{descriptor} rotary evaporator', 12)			0.7921692675028833
+('rosetobacco effect {descriptor}', 9)			0.7920758496929996
+('fat {descriptor}', 7)			0.7917889389139858
+('{descriptor} grapefruit', 6)			0.7915910272129716
+('{descriptor} sharp lemon sweet fresh juicy lemon peel', 10)			0.7911690330909298
+('{descriptor} green tropical fruity fatty dairy blue cheese', 16)			0.7907852957522332
+('{descriptor} watery flavor', 5)			0.7907619748038849
+('{descriptor} lemon rind', 9)			0.7905774239762456
+('{descriptor} honeydew melon', 12)			0.790560654720511
+('{descriptor} black tea', 7)			0.7904959015107709
+('{descriptor} sweet pea', 12)			0.7904050953809714
+('{descriptor} dimethyl tetrasulfide', 10)			0.790200742040229
+('{descriptor} nightshade berry', 5)			0.7901969851828755
+('{descriptor} yellow lotus', 20)			0.7898927761630059
+('{descriptor} cherimoya', 12)			0.7898353974835621
+('{descriptor} cement', 7)			0.7892958550674292
+('green pepper {descriptor}', 9)			0.7891428313473109
+('{descriptor} very natural floral fruity real character', 18)			0.7891353830511743
+('soft {descriptor}', 6)			0.7888062365347626
+('{descriptor} mirabelle plum', 10)			0.7887438990992515
+('{descriptor} wind blown leaves', 16)			0.788718264979353
+('{descriptor} isolation', 13)			0.7886933371474718
+('{descriptor} white heliotrope', 10)			0.7884754192267895
+('{descriptor} omani incense', 11)			0.7882628247649952
+('strong onion garlic {descriptor}', 16)			0.7882118270071241
+('ginger root {descriptor}', 10)			0.7876890901055277
+('{descriptor} white cognac', 14)			0.7874710829015168
+('fruity floral blackcurrant tobacco {descriptor}', 12)			0.7874507452884294
+('{descriptor} type', 17)			0.7870628923512218
+('{descriptor} hinoki wood', 15)			0.7869683107720058
+('{descriptor} whiskey', 9)			0.7869321283759714
+('shrimp {descriptor}', 5)			0.7868846537015888
+('{descriptor} sweet burnt powerful spicy corylone caramel maple coffee bread licorice', 23)			0.7868401130737614
+('{descriptor} herbs', 16)			0.7868302681043069
+('fresh lemon character {descriptor}', 9)			0.7866628594329448
+('{descriptor} anise', 9)			0.7859252703808184
+('{descriptor} emirati frankincense', 16)			0.785864717492229
+('{descriptor} time', 8)			0.7858546448129231
+('{descriptor} food additives', 20)			0.7857598682126712
+('{descriptor} wine', 20)			0.7851848056600814
+('{descriptor} skill', 18)			0.7850185242852641
+('{descriptor} white spiced wine', 20)			0.784723967350488
+('{descriptor} leatherwood', 20)			0.7846173889624697
+('{descriptor} tomato leaf', 13)			0.784543637601053
+('{descriptor} ap roll on', 8)			0.7844931846646832
+('{descriptor} sweet honey', 7)			0.7841567696233424
+('{descriptor} red plum', 24)			0.7840126068455721
+('{descriptor} violet leaf absolute', 7)			0.7838793806603723
+('{descriptor} weak buttery fruity caramellic', 19)			0.7837945776828164
+('sweet dry tea {descriptor}', 7)			0.7836698015594605
+('material {descriptor}', 5)			0.7831251294372644
+('mild fruity ethereal aroma {descriptor}', 10)			0.7827813630449685
+('{descriptor} honey hay tobacco', 9)			0.782664040151335
+('{descriptor} jack fruit', 17)			0.7826231804393929
+('{descriptor} water lily', 14)			0.7825920744355584
+('{descriptor} passion fruit', 8)			0.782394466528713
+('{descriptor} rosemary', 24)			0.7823710701915374
+('{descriptor} virginia cedar', 3)			0.7823229409618783
+('{descriptor} wet earth', 13)			0.7821591963094332
+('{descriptor} must', 4)			0.7819530038597757
+('{descriptor} amberwood', 17)			0.7817137441515961
+('{descriptor} fresh sweet citrus', 13)			0.7816047989734345
+('{descriptor} royal gardenia', 12)			0.7812154729469104
+('{descriptor} potato earthy mushroom', 16)			0.781108466896357
+('presence {descriptor}', 5)			0.7810823011481234
+('{descriptor} enigmatic musk', 10)			0.7810408077663106
+('{descriptor} add', 8)			0.7808633311234572
+('{descriptor} pepper', 12)			0.7807809377028528
+('{descriptor} ambrette muskmallow', 13)			0.7803136467812039
+('olive leaf {descriptor}', 3)			0.7801193407053519
+('{descriptor} west indian lime', 15)			0.7800079488536696
+('{descriptor} boysenberry', 22)			0.779978031091423
+('{descriptor} honey fruity wine', 20)			0.7797430909451786
+('{descriptor} black currant', 8)			0.7794013935034763
+('{descriptor} cassis bud', 12)			0.7793236817192106
+('{descriptor} italian lemon', 7)			0.7790693862775282
+('{descriptor} roast crude sugar', 9)			0.7790210887173579
+('{descriptor} fresh sweet green juicy apple cider fusel', 9)			0.7789174268870489
+('{descriptor} dihydrocarvyl acetate', 16)			0.7788287330803866
+('chili pepper {descriptor}', 7)			0.7787261004687563
+('{descriptor} enhancer', 11)			0.7786943548596101
+('{descriptor} sandalwood', 9)			0.7785357601385565
+('strong sweet vanilla {descriptor}', 10)			0.7782135784764642
+('drink {descriptor}', 7)			0.7779411480413991
+('{descriptor} apple pear', 13)			0.7779289136658122
+('{descriptor} magnolia fragrances', 16)			0.777925789818021
+('many {descriptor}', 4)			0.7778867115915546
+('{descriptor} beef', 8)			0.7775828297231236
+('{descriptor} aldehydic earthy fatty cortex', 13)			0.7772997225208806
+('{descriptor} green vegetable nutty', 9)			0.7771674535899733
+('{descriptor} suede', 10)			0.7770606892025842
+('{descriptor} indole', 11)			0.7770464118915936
+('{descriptor} organic tonka bean butter', 5)			0.7770314013794295
+('{descriptor} green herbal spicy camphor', 20)			0.7767703639367656
+('{descriptor} tabac noir', 22)			0.7766527898882221
+('{descriptor} soybean drink b', 13)			0.7766129031968112
+('{descriptor} italian mandarin', 18)			0.7763775786441004
+('{descriptor} tamboti', 10)			0.7762002668325676
+('{descriptor} starfruit', 24)			0.7760637579116473
+('{descriptor} freshgeranium odour', 7)			0.7760560391006146
+('{descriptor} herbal fruity taste', 5)			0.7758789379125978
+('{descriptor} butter', 5)			0.7757588925844184
+('{descriptor} rose liquor', 8)			0.7756762249253459
+('{descriptor} hex', 19)			0.7752859485893384
+('{descriptor} synonyms', 13)			0.775264316115233
+('{descriptor} white jasmine', 10)			0.774883909532797
+('{descriptor} bitter cocoa bean', 18)			0.7747816017869306
+('{descriptor} egyptian rose geranium', 11)			0.7746112868126482
+('excellent fixative {descriptor}', 7)			0.7745886021587883
+('{descriptor} sea', 11)			0.774456850362738
+('{descriptor} tonka', 11)			0.7742958740162766
+('{descriptor} forbrown creation', 18)			0.7741425390230824
+('chinese ginger root {descriptor}', 12)			0.7741265612238124
+('{descriptor} tunisian orange blossom', 8)			0.7740346407979544
+('{descriptor} vanilla', 4)			0.7733912133710539
+('{descriptor} caramel wood', 24)			0.7733314037259876
+('comments {descriptor}', 4)			0.7732144889896139
+('{descriptor} fine fragrance', 7)			0.7725558867327144
+('{descriptor} golden apple', 11)			0.7723969660603394
+('{descriptor} reseda', 10)			0.7718143407112069
+('{descriptor} soil dyed green', 19)			0.7711855090858922
+('{descriptor} indolic features', 8)			0.771022656834822
+('{descriptor} wood smoke', 16)			0.7708203405027458
+('{descriptor} anethole', 9)			0.7705000757182057
+('{descriptor} ceylon cinnamon', 10)			0.7704725172137441
+('{descriptor} bluebell', 13)			0.7704594254651204
+('{descriptor} green citrus', 18)			0.7702536122750807
+('{descriptor} tropical fruits', 14)			0.770123269705675
+('{descriptor} green tropical banana vegetable', 12)			0.7700360986422579
+('amalfi lemon {descriptor}', 8)			0.7699411427221374
+('{descriptor} purple hyacinth', 20)			0.7696572432792103
+('{descriptor} neroli', 11)			0.7694107686580012
+('{descriptor} popcorn', 22)			0.7691658577308434
+('andalusian citrus fruits {descriptor}', 10)			0.7689777348031688
+('{descriptor} sweet herbs', 22)			0.7688154204386605
+('your fragrances {descriptor}', 9)			0.7685999290020975
+('{descriptor} calabrian lemon', 18)			0.768599781691706
+('{descriptor} dry ambergris', 8)			0.7680841284869132
+('{descriptor} smoke', 14)			0.7679679318957168
+('{descriptor} rose green', 10)			0.7677603760764021
+('{descriptor} tonka bean', 11)			0.7677462939173412
+('{descriptor} coconut caco gin', 15)			0.7676305303088656
+('{descriptor} bitter chocolate', 3)			0.7672567770033973
+('honey green herbal tobacco coumarin {descriptor}', 8)			0.7669376815312848
+('{descriptor} breakfast cereals', 11)			0.7668761483943107
+('{descriptor} basil', 14)			0.7665010393749319
+('{descriptor} balsam of peru', 10)			0.7664673087627272
+('{descriptor} acetylpyrroline', 15)			0.7661987804309535
+('{descriptor} fruity berry', 10)			0.7657316925066365
+('{descriptor} cypress', 11)			0.7656582100257633
+('additional sulfurous {descriptor}', 6)			0.7654257539637577
+('{descriptor} daffodil', 15)			0.7652941142970847
+('{descriptor} soaps', 13)			0.7651094156925887
+('{descriptor} taste profile', 11)			0.7649741523832607
+('jasmine orange blossom {descriptor}', 5)			0.7647893664702067
+('{descriptor} champacca leaf co', 14)			0.7646196158122504
+('fruity citrus {descriptor}', 8)			0.7645555638094856
+('{descriptor} thyme', 5)			0.7644030844764929
+('{descriptor} eggy', 9)			0.7642841345726565
+('{descriptor} sweet', 18)			0.7640779918591689
+('{descriptor} brown sugarcaramel', 21)			0.7636470651917703
+('{descriptor} red ginger', 8)			0.7634681138782368
+('{descriptor} powerful lingering character', 12)			0.7631926089313121
+('teak wood {descriptor}', 4)			0.7626740643495113
+('{descriptor} apricot', 20)			0.7622653026148697
+('{descriptor} coconut milk', 8)			0.7622248260765503
+('{descriptor} solvent', 8)			0.7621488375047618
+('{descriptor} grandiflorum jasmine', 13)			0.7619665710398507
+('cotton candy {descriptor}', 4)			0.761469796089115
+('{descriptor} yellow daffodil', 12)			0.7613211859696705
+('{descriptor} vanilla bean', 15)			0.7609965953764389
+('{descriptor} three hediones elixir', 6)			0.7608751001672577
+('fruity green sweet somewhat fatty waxy {descriptor}', 8)			0.7602066709047192
+('{descriptor} watery', 17)			0.7597596519205068
+('{descriptor} plum', 24)			0.7594275781655897
+('{descriptor} skin musk', 15)			0.7593618312267499
+('{descriptor} bamboo', 3)			0.7593582580861689
+('{descriptor} rare orchid', 5)			0.7593525456593386
+('{descriptor} alhel', 11)			0.759187900772699
+('{descriptor} herbal green spicy', 5)			0.759164020519386
+('{descriptor} waxy rose bud citrus', 15)			0.7590986737950693
+('{descriptor} candied apple', 3)			0.7586673096560318
+('{descriptor} fig wood', 18)			0.7585258998565134
+('{descriptor} pear blossom', 6)			0.7584838092804465
+('burnt sugar caramel aroma {descriptor}', 5)			0.7583444522887723
+('finnish whisky {descriptor}', 7)			0.7583396312899502
+('{descriptor} bulgarian rose', 24)			0.7582465949583517
+('{descriptor} pink lilac', 6)			0.7581843584367691
+('geranium bourbon {descriptor}', 4)			0.7580996093348482
+('{descriptor} capsicum species', 9)			0.7580583851043634
+('terpenic aromatic woody {descriptor}', 9)			0.7578301825228518
+('{descriptor} bantu beer', 8)			0.7576163171061837
+('{descriptor} forthcoming meetings', 12)			0.7575465822906964
+('texture {descriptor}', 10)			0.7575274052476861
+('{descriptor} lush fruits', 8)			0.7573781690191979
+('{descriptor} cooked beef', 16)			0.7573318283656885
+('slight neroli touch {descriptor}', 2)			0.7572649034972446
+('{descriptor} middle', 15)			0.7570080616772472
+('{descriptor} cinnamon', 16)			0.7569653980443884
+('salt tea {descriptor}', 12)			0.7569413993974772
+('tropical {descriptor}', 7)			0.756693744972724
+('intake {descriptor}', 3)			0.7565753763467854
+('woody {descriptor}', 7)			0.7565336093023928
+('jasmine petals {descriptor}', 11)			0.7564844521810845
+('{descriptor} caramellic', 17)			0.7564274156150173
+('{descriptor} hop', 7)			0.756374862350731
+('juniper berry {descriptor}', 11)			0.7563482285898574
+('{descriptor} sicilian bergamot', 6)			0.75634707000739
+('{descriptor} floral green cortex orchid', 9)			0.7559796891736719
+('{descriptor} some melon', 19)			0.7559723942452488
+('{descriptor} buckskin', 10)			0.755928952394606
+('hindi oud {descriptor}', 5)			0.7557849562815073
+('{descriptor} decanoic acid', 9)			0.7557358210033306
+('{descriptor} warehouses', 9)			0.7556606185439855
+('{descriptor} coconut', 10)			0.7556092779324777
+('{descriptor} spikenard', 21)			0.7555557725082869
+('{descriptor} al', 10)			0.7555430962013466
+('{descriptor} turkish delight', 3)			0.755398129261019
+('{descriptor} hemlock', 4)			0.7547246303792491
+('ripe fruity {descriptor}', 6)			0.7543140127216166
+('{descriptor} many people', 4)			0.7542581602326227
+('{descriptor} rooibos tea', 17)			0.7542069834052414
+('especially rose {descriptor}', 5)			0.754019137552796
+('cheese {descriptor}', 10)			0.7540044423773082
+('{descriptor} birch wood', 22)			0.7539258888121283
+('{descriptor} tomato', 20)			0.7537809578418896
+('traditional distillation processes {descriptor}', 3)			0.7534415101607221
+('{descriptor} benzoinis', 7)			0.7534018684975868
+('mushroom absolute {descriptor}', 9)			0.7533875986689782
+('{descriptor} tropical woods', 11)			0.7533496668221646
+('{descriptor} lychee nut', 17)			0.7531983434582803
+('opinion {descriptor}', 5)			0.7530741036188033
+('{descriptor} guaiac wood', 12)			0.75279245617151
+('apple blossom {descriptor}', 3)			0.7526075732464879
+('{descriptor} carnation', 6)			0.752464666195745
+('{descriptor} tuberose', 9)			0.7520612449245098
+('{descriptor} artificial bergamot', 12)			0.7519664091975833
+('warm woody spicy camphor {descriptor}', 6)			0.7519528802185735
+('kubota {descriptor}', 3)			0.7513103302818787
+('{descriptor} herbaceous', 21)			0.7511335449427557
+('{descriptor} oriental', 17)			0.7511294932255805
+('{descriptor} wild violet', 22)			0.7511003454578133
+('{descriptor} creamy coumarin tonka', 24)			0.7508461147019788
+('{descriptor} leek', 15)			0.7508419416684778
+('{descriptor} moroccan rose absolute', 15)			0.7504867169344125
+('fruity pear topnot {descriptor}', 12)			0.7502948492840706
+('{descriptor} fig', 8)			0.7502046212661437
+('animalic onion {descriptor}', 7)			0.7493353249276601
+('{descriptor} lobster', 9)			0.7493124538520544
+('{descriptor} poundage data', 7)			0.7490629672123101
+('{descriptor} benzoate', 8)			0.7489322243125364
+('{descriptor} mustard horseradish', 23)			0.7488010676555557
+('gardenia cherry blossom {descriptor}', 5)			0.7486808114581462
+('{descriptor} tropical breeze', 13)			0.7486782679126356
+('{descriptor} cocoa', 8)			0.7484014213478074
+('{descriptor} sweet hazel nut', 24)			0.7481754233174156
+('{descriptor} orris root', 10)			0.748038138124942
+('cumin {descriptor}', 5)			0.747582863788093
+('{descriptor} cheesy', 8)			0.7473360639700539
+('{descriptor} lotus flowers', 17)			0.7472819552794825
+('{descriptor} sambac jasmine', 6)			0.7469590491131071
+('{descriptor} cut grass', 6)			0.746954016449607
+('violet leaves {descriptor}', 9)			0.7468132845096909
+('{descriptor} egyptian jasmine', 10)			0.7468129883683927
+('{descriptor} iso e super', 10)			0.7467870152952394
+('{descriptor} animalic', 8)			0.746603372815609
+('copaiba {descriptor}', 5)			0.7461860937610285
+('{descriptor} muscat grape', 8)			0.7460058279798001
+('{descriptor} romano cheese', 6)			0.7452029937808735
+('herbal flavours {descriptor}', 13)			0.7451534982716215
+('{descriptor} pecan pie', 8)			0.7450177398130279
+('{descriptor} melon', 13)			0.7449365084417778
+('oppopanax {descriptor}', 3)			0.7446396559391626
+('{descriptor} blonde woods', 2)			0.7444793309853853
+('intensely rich sweet heavy narcotic fruity floral jasmin tea {descriptor}', 12)			0.7441796098995169
+('{descriptor} sweet fruity herbaceous spicy', 8)			0.7440113472694176
+('{descriptor} msdi calculation', 8)			0.7438318694959258
+('{descriptor} cinammon', 7)			0.7437054103288627
+('vanilla leaf {descriptor}', 2)			0.7436966500037283
+('{descriptor} azalea', 10)			0.7430502458147579
+('black currants {descriptor}', 5)			0.7426251791899162
+('{descriptor} cedar', 12)			0.7424748579043792
+('tonka bean absolute {descriptor}', 12)			0.7422713281665838
+('{descriptor} fruity strawberry woody', 15)			0.7416687611036157
+('sulfury {descriptor}', 5)			0.7415257176989483
+('clean {descriptor}', 10)			0.7412338634161891
+('herbal {descriptor}', 7)			0.7409964179590076
+('{descriptor} madagascan vanilla absolute', 2)			0.7407067112263954
+('bitter orange rind {descriptor}', 11)			0.7406693300286494
+('aroma extracts {descriptor}', 10)			0.7405587948330612
+('{descriptor} green leaves', 13)			0.7402963213131275
+('{descriptor} achillea eriophora', 10)			0.7402766032551564
+('{descriptor} citrus nobilis var lour microcarpa', 9)			0.7402310155655669
+('{descriptor} flavouring agent', 4)			0.7401410598506124
+('{descriptor} thuja occidentalis', 10)			0.7399259098326012
+('orris butter {descriptor}', 3)			0.7397456188177326
+('better substantivity {descriptor}', 7)			0.7397115424871745
+('{descriptor} palo santo', 10)			0.7396496923998911
+('{descriptor} floral rosy fruity', 6)			0.7394971305376818
+('berry {descriptor}', 11)			0.7382861112829575
+('{descriptor} honeybush co extract', 12)			0.738219887632853
+('{descriptor} other diastereomer', 7)			0.7380393086612258
+('{descriptor} food chem', 6)			0.7379119985878914
+('{descriptor} belambre', 2)			0.7377411287849082
+('{descriptor} fruit', 22)			0.7377248045416274
+('{descriptor} oxoethanoic acid', 13)			0.7375876627946916
+('sherry {descriptor}', 4)			0.7375558638437723
+('banana coffee {descriptor}', 11)			0.7373510762921944
+('{descriptor} green', 11)			0.7371973860691292
+('{descriptor} rose petals', 19)			0.7371371832271671
+('{descriptor} black baccara rose', 10)			0.7371263166444961
+('{descriptor} tobbaco smoke', 2)			0.7369469755648742
+('blond cedar {descriptor}', 5)			0.7368069063819151
+('lentiscus absolute {descriptor}', 8)			0.7363546870139122
+('{descriptor} perfume', 3)			0.736319411616464
+('{descriptor} sweet corn', 9)			0.7363046615814728
+('spicy sweet clove {descriptor}', 8)			0.7362490522399556
+('{descriptor} davana', 10)			0.7360790759346962
+('{descriptor} smoky burnt earthy green caramel', 3)			0.736073122687542
+('{descriptor} clove', 8)			0.7360612020223465
+('{descriptor} alliaceous fruity sulphurus vegetable', 7)			0.7359622663618001
+('{descriptor} sweet lime', 10)			0.7359179235873956
+('{descriptor} narcissus', 11)			0.7358808101417417
+('ambery {descriptor}', 8)			0.7357378315929393
+('figures {descriptor}', 6)			0.7357265395799817
+('{descriptor} sea rose', 21)			0.7355219086799595
+('{descriptor} ginger', 20)			0.735375552196158
+('dewy green {descriptor}', 5)			0.7353611929105591
+('peach {descriptor}', 11)			0.7353179889103028
+('{descriptor} black peppercorn', 6)			0.7348797917812788
+('{descriptor} bulgarian rose otto', 2)			0.7344730302514622
+('especially rum {descriptor}', 11)			0.7343159867603067
+('{descriptor} costus', 14)			0.734125596989787
+('{descriptor} sicilian blood orange', 17)			0.7340150831208776
+('{descriptor} functional class', 7)			0.7337309239251386
+('cedar wood {descriptor}', 5)			0.7332139898193119
+('{descriptor} yellow champaca', 8)			0.7331906356186666
+('{descriptor} sweet fresh juicy apple woody brown fusel', 5)			0.7330994159552081
+('magnolia petal {descriptor}', 9)			0.7330763294597563
+('{descriptor} dates', 12)			0.7329511289879256
+('lemon sugar {descriptor}', 9)			0.7324734160469883
+('{descriptor} report', 10)			0.7324326156725522
+('{descriptor} fresh hay', 6)			0.7322377572329253
+('{descriptor} willow bark', 18)			0.7321580951115073
+('{descriptor} raspberry liqueur', 5)			0.7320572224944502
+('{descriptor} martinique rum', 3)			0.73194343217724
+('{descriptor} heaven sent magnolia', 11)			0.7318235118040188
+('cereal {descriptor}', 10)			0.7313834712685078
+('used tea bags {descriptor}', 11)			0.7313541082582283
+('{descriptor} finished consumer product', 9)			0.7311220701189742
+('water niotes {descriptor}', 3)			0.7310331483566703
+('{descriptor} mysore sandalwood', 6)			0.7307168078794876
+('{descriptor} spices', 3)			0.7302053742602695
+('{descriptor} frankincense', 6)			0.7300321417207356
+('{descriptor} fermented soy hydrolysate', 20)			0.7298564696380685
+('{descriptor} indonesian patchouli', 10)			0.7297275470580137
+('iofi {descriptor}', 6)			0.7295171255408002
+('rum {descriptor}', 7)			0.7294846849423433
+('sweet floral geranium rose verbena {descriptor}', 4)			0.7291680195043097
+('{descriptor} opium haze', 3)			0.7290179185482142
+('{descriptor} exaltolide', 9)			0.7289530577082335
+('{descriptor} plum brandy', 2)			0.7286742056966309
+('volatile solvents {descriptor}', 7)			0.7286506419385558
+('{descriptor} tangerine confit', 16)			0.7286263131473973
+('{descriptor} chili', 20)			0.7286067067402452
+('{descriptor} unusual combination', 20)			0.7285379090053767
+('sweet fruity caramellic {descriptor}', 12)			0.728419299277997
+('blackcurrant {descriptor}', 4)			0.7281560635775115
+('{descriptor} hay sugar', 17)			0.7281426633731021
+('{descriptor} lavender', 17)			0.7280986991156683
+('{descriptor} herbaceous warm tobacco profile', 6)			0.7276842818146134
+('{descriptor} indian tuberose', 22)			0.7276731441600981
+('{descriptor} grime', 2)			0.7276398266016344
+('{descriptor} guaiacwood', 12)			0.727399488055807
+('{descriptor} this monograph', 7)			0.7273953365060478
+('{descriptor} aged cypress absolute', 20)			0.7272799242667216
+('{descriptor} green taste', 3)			0.7269151104139936
+('{descriptor} olive amber', 22)			0.72647723643688
+('{descriptor} musk', 16)			0.7264759574883327
+('blond wood {descriptor}', 9)			0.7263849444296961
+('sicilian lemon {descriptor}', 11)			0.7263727044692682
+('{descriptor} maple', 12)			0.72633283991565
+('{descriptor} butyrate', 18)			0.7262961533499701
+('{descriptor} atlas cedarwood', 10)			0.7262694495739233
+('{descriptor} ionone', 12)			0.7259925174247478
+('{descriptor} white truffle', 17)			0.7254185667108557
+('english ivy {descriptor}', 8)			0.7252591145655573
+('{descriptor} medjool date', 4)			0.7251632081768383
+('{descriptor} oak', 18)			0.7251463782040672
+('{descriptor} top', 21)			0.7250842621497473
+('plum peel {descriptor}', 14)			0.7248177114859193
+('{descriptor} astringent hay tobacco', 6)			0.7246487317403182
+('{descriptor} tobacco flower', 22)			0.7244704946749498
+('leafy green {descriptor}', 7)			0.7243616621928304
+('sweet fatty nut winey cognac {descriptor}', 8)			0.7238724170282782
+('bitter orange {descriptor}', 12)			0.7237121401754988
+('{descriptor} waterlily', 23)			0.7235207574423197
+('labdanum absolute {descriptor}', 7)			0.7234235287417382
+('{descriptor} weak slight caramellic', 0)			0.7233441814937364
+('{descriptor} black pepper', 23)			0.7230933495768144
+('cleaner citric {descriptor}', 2)			0.7230512696370122
+('{descriptor} oily', 24)			0.7229196329229982
+('slight phenolic {descriptor}', 4)			0.7227480811471462
+('{descriptor} epitome', 5)			0.7219153670558023
+('{descriptor} white peony', 8)			0.7218887703278815
+('cajeta {descriptor}', 5)			0.7216362064108655
+('violet {descriptor}', 8)			0.7215799644181127
+('candies {descriptor}', 10)			0.7214230159868591
+('{descriptor} tahitian gardenia', 6)			0.7205331716848467
+('{descriptor} processed fruits', 7)			0.7203968724012804
+('{descriptor} marine', 13)			0.7203239192901132
+('{descriptor} chewing gum', 13)			0.7201821651738545
+('polished wood {descriptor}', 5)			0.7199361767558834
+('{descriptor} bois de rose', 13)			0.7199338572250328
+('light amber {descriptor}', 8)			0.7196810710589618
+('traces of kerosene {descriptor}', 4)			0.7196111625207727
+('star jasmine {descriptor}', 11)			0.7195428798115339
+('{descriptor} mandarin', 20)			0.7194790033280734
+('magnolia flower {descriptor}', 7)			0.7191514866887225
+('citrus geranium {descriptor}', 5)			0.7191333878394884
+('thyme herbal camphor {descriptor}', 13)			0.7187460393956794
+('fresh {descriptor}', 8)			0.7187095570713431
+('{descriptor} hard candy', 22)			0.7185367414394643
+('{descriptor} sugar cube', 14)			0.7185198654271808
+('{descriptor} hydroxybutyric acid', 21)			0.7182209024283601
+('{descriptor} olive', 8)			0.718135226226817
+('{descriptor} mate', 20)			0.7173896760265073
+('{descriptor} vanilla sugar', 4)			0.7170822047048204
+('{descriptor} radiant white musk', 15)			0.7170295294585285
+('mimosa {descriptor}', 5)			0.7164253720883221
+('{descriptor} current levels', 21)			0.716036790432423
+('flavor ingredients {descriptor}', 16)			0.7159514359171597
+('gorse {descriptor}', 10)			0.7156647970496826
+('{descriptor} green galbanum', 15)			0.7152814660707596
+('{descriptor} fougere', 6)			0.7152319075632718
+('{descriptor} addendum', 10)			0.7152285159417981
+('{descriptor} tiger lily', 8)			0.7146802299306467
+('{descriptor} brown cocoa', 6)			0.7142025831198364
+('{descriptor} choice', 17)			0.7134698332000383
+('{descriptor} sweet balsamic', 19)			0.713312516467005
+('{descriptor} fruits', 15)			0.7132932060905706
+('lily of valley {descriptor}', 11)			0.7129369522697895
+('{descriptor} mezcal', 18)			0.7126161017971684
+('{descriptor} mandarin orange', 3)			0.7125405837867365
+('{descriptor} fresh green fruity somewhat banana apple', 12)			0.7124825773359986
+('{descriptor} wild rose petals', 10)			0.7124689480621906
+('{descriptor} etheral', 15)			0.7123248977676059
+('methyl h thiophenone {descriptor}', 4)			0.7119302844255682
+('hyracium tincture {descriptor}', 7)			0.7118929526932644
+('laos benzoin resinoid {descriptor}', 7)			0.7118181297788688
+('{descriptor} purple lavender', 9)			0.7113876067388597
+('{descriptor} blackcurrant absolute', 6)			0.7112185334944405
+('{descriptor} beer', 17)			0.7111131107759542
+('{descriptor} wood', 5)			0.7110391726464491
+('{descriptor} paprika', 12)			0.7110316090881567
+('strong sulfureous onion {descriptor}', 13)			0.7108945626194345
+('{descriptor} elemi', 18)			0.7108506618500381
+('candy cane {descriptor}', 9)			0.7106881200268005
+('chantilly cream {descriptor}', 8)			0.7106208920655224
+('{descriptor} carnation bases', 7)			0.7103585718992462
+('{descriptor} roasted peanut', 8)			0.7103088318867798
+('{descriptor} winter green', 8)			0.7101181533139425
+('{descriptor} bucinal', 13)			0.7099381325658682
+('pine balsam {descriptor}', 6)			0.7099181920252027
+('{descriptor} new mown hay', 20)			0.7095436420604976
+('especially cilantro {descriptor}', 7)			0.7095374664789603
+('{descriptor} hint', 20)			0.7094787662896398
+('{descriptor} nan', 21)			0.7094679434998368
+('{descriptor} gaiac wood', 13)			0.7094560848018399
+('{descriptor} green mandarin', 9)			0.7089245045258402
+('fruity grape skin {descriptor}', 2)			0.7085505318210523
+('emulsifier {descriptor}', 7)			0.7085356465100872
+('black amber {descriptor}', 8)			0.708371463634438
+('{descriptor} sunset shine', 11)			0.7082798072476946
+('{descriptor} beany fatty phenolic spicy balsamic high vanillin level', 7)			0.7080420054172476
+('mate tea {descriptor}', 12)			0.7080336203832497
+('turkish poppy flower {descriptor}', 6)			0.7080224007940399
+('strong fatty chicken {descriptor}', 10)			0.7077957474841986
+('{descriptor} yerba mate', 19)			0.7077050370398338
+('{descriptor} orange cinnamon', 20)			0.7076064002262342
+('smooth chocolate {descriptor}', 12)			0.7075937121654009
+('tea {descriptor}', 11)			0.7075524019249518
+('{descriptor} waxy fatty spicy terpenic', 4)			0.707312626966808
+('{descriptor} pembrokeshire bay', 12)			0.7073053813729898
+('aldehydes {descriptor}', 8)			0.7072107640504959
+('{descriptor} oud crassna', 9)			0.7070490806589333
+('{descriptor} silvanone', 11)			0.7067548726267064
+('{descriptor} rose otto', 17)			0.706563978367675
+('{descriptor} cooked beef grape', 3)			0.7061703292085939
+('{descriptor} olive wood', 1)			0.7060595993546284
+('{descriptor} fatty meaty sulfury aroma profile', 19)			0.7059043853144056
+('{descriptor} kumquat', 17)			0.7058579037883534
+('{descriptor} sweet radish fatty mildly pungent horseradish', 6)			0.7058548989774106
+('{descriptor} lavender lemon', 3)			0.705648842207993
+('{descriptor} local communities', 10)			0.7054989301044879
+('chicken fat {descriptor}', 9)			0.7054827557949116
+('{descriptor} hyraceum', 8)			0.7052871448370008
+('{descriptor} salacca edulis reinw', 9)			0.7052579697962823
+('{descriptor} sweet juicy citrus orange', 4)			0.7051521546833155
+('sweet fruity balsamic peach {descriptor}', 7)			0.7050136276633653
+('{descriptor} curry', 20)			0.7047690675054171
+('sweet woody {descriptor}', 8)			0.7047204597118604
+('toasted coconut {descriptor}', 14)			0.7045071323737129
+('{descriptor} fresh melon pear tropical', 12)			0.7044230225508719
+('cinnamon spice {descriptor}', 13)			0.7042751444658473
+('{descriptor} sulphurous fruity berry', 5)			0.7042314654262896
+('{descriptor} blackcurrant bud', 11)			0.7040434048805857
+('{descriptor} guiac wood', 17)			0.703775587077715
+('related muguet products {descriptor}', 8)			0.7037156516507801
+('{descriptor} moss', 16)			0.7034250128384865
+('unsurpassed elegance {descriptor}', 10)			0.7033823198110929
+('{descriptor} jecfa', 6)			0.7030231001669184
+('{descriptor} licorice', 17)			0.7028982985798569
+('gin {descriptor}', 11)			0.7026554972197236
+('{descriptor} fir', 8)			0.7026109099777187
+('fermented balsamic {descriptor}', 3)			0.7022965905075738
+('strawberry wine {descriptor}', 11)			0.7021104722897832
+('powerful fruity pineapple mushroom {descriptor}', 13)			0.7020020364916898
+('white raspberry {descriptor}', 5)			0.7016181961785714
+('perfume types {descriptor}', 8)			0.7016058014596983
+('{descriptor} cistus labdanum', 14)			0.7016035655471302
+('{descriptor} balsalm resin', 12)			0.7014466031883266
+('{descriptor} peony', 8)			0.7011368038026553
+('indonesian amber {descriptor}', 10)			0.7008831321027938
+('vanilla hay {descriptor}', 13)			0.70080124283007
+('{descriptor} silk tree flower', 10)			0.7006917313700228
+('{descriptor} cade', 13)			0.7006147020812308
+('{descriptor} vintage jasmine', 16)			0.7005368257266724
+('{descriptor} paradisone', 8)			0.6998124933961996
+('{descriptor} kaffir lime', 8)			0.6995791411112947
+('{descriptor} durian', 9)			0.699211062803375
+('{descriptor} nectarine', 16)			0.6988801246211613
+('oleander {descriptor}', 8)			0.6988735050322438
+('hard fruits {descriptor}', 10)			0.6988097376686617
+('wheat bread {descriptor}', 10)			0.6985310456559233
+('protein {descriptor}', 15)			0.6979444074507821
+('mint {descriptor}', 4)			0.6978087786137923
+('egyptian violet leaf absolute {descriptor}', 12)			0.6972656873667137
+('{descriptor} buchu', 9)			0.6971931652642074
+('{descriptor} gardenia', 18)			0.6971295738252088
+('ohloff {descriptor}', 7)			0.6968459574673667
+('germany {descriptor}', 7)			0.6968383265548805
+('mint leaf {descriptor}', 8)			0.6962149136808444
+('s dimethyl furyl ethanethioate {descriptor}', 10)			0.6962081387886461
+('beany bready {descriptor}', 10)			0.6960744465526412
+('white pepper {descriptor}', 8)			0.6960116610819512
+('refreshing aldehydic lemon citronella {descriptor}', 23)			0.6955507597720527
+('{descriptor} lemongrass', 11)			0.695457497553178
+('{descriptor} plant', 19)			0.6954111500185745
+('{descriptor} muscenone', 8)			0.6952660916941673
+('some sweet pea {descriptor}', 9)			0.6951725151069004
+('frangipani {descriptor}', 6)			0.6950104812877067
+('cooling mentholic peppermint {descriptor}', 4)			0.6942982291046487
+('{descriptor} florentine iris', 10)			0.6936846456703327
+('seaweed absolute {descriptor}', 13)			0.6933626730094367
+('{descriptor} cedarwood', 10)			0.6931910032515024
+('{descriptor} breakthrough innovative molecule', 17)			0.693003603908782
+('{descriptor} shoyu', 8)			0.6926683053535752
+('syrup {descriptor}', 9)			0.6923626483248785
+('{descriptor} d edition', 8)			0.6923606622966293
+('dry woody {descriptor}', 9)			0.6923420787619883
+('{descriptor} frozen dairy', 11)			0.6922298296847905
+('{descriptor} trong aroma', 18)			0.6921471839157205
+('amber {descriptor}', 9)			0.6919017026070959
+('{descriptor} agric', 14)			0.691704551669097
+('{descriptor} galbanum', 14)			0.6916993521121756
+('sweet citral lemon peel {descriptor}', 3)			0.6915871003105534
+('honeydew {descriptor}', 13)			0.691372412263316
+('green tomato leaf threshold {descriptor}', 13)			0.6913422658896562
+('{descriptor} labdanum', 17)			0.691306894905164
+('both flavour compositions {descriptor}', 12)			0.6912929926857625
+('warm woody floral clove {descriptor}', 3)			0.6907249117625837
+('{descriptor} cashmere', 16)			0.690634721391554
+('{descriptor} karo karounde', 11)			0.6902655301874607
+('yellow ginger lily {descriptor}', 12)			0.690206222432038
+('{descriptor} april', 10)			0.6900938271974285
+('{descriptor} white peach', 10)			0.6900673486844323
+('methyl hexanoate {descriptor}', 12)			0.6899715008981372
+('citrus fruits {descriptor}', 12)			0.6897106038288854
+('vanilla bourbon {descriptor}', 11)			0.6887217910029517
+('waxy lactonic creamy sweet fermented {descriptor}', 11)			0.6885501645920453
+('{descriptor} press', 13)			0.6883024267982237
+('almond milk {descriptor}', 11)			0.6882476136552191
+('{descriptor} violet leaf', 16)			0.6879952815705198
+('{descriptor} balsamic', 8)			0.6878770052215416
+('{descriptor} agarwood', 12)			0.6878194688279946
+('{descriptor} wafers', 20)			0.687516215236694
+('thomas hofmann {descriptor}', 6)			0.6867440334533715
+('{descriptor} broom', 24)			0.686459086696842
+('{descriptor} linden', 8)			0.686320080189884
+('{descriptor} plum blackcurrant honey rose tobacco', 6)			0.6861331566448968
+('edens mist water flowers {descriptor}', 12)			0.686089977166499
+('dark patchouli incense {descriptor}', 16)			0.6853527324781681
+('strong green {descriptor}', 9)			0.6849168960886414
+('cactus flower {descriptor}', 10)			0.6845350467093749
+('white wine {descriptor}', 12)			0.6843344186863881
+('{descriptor} ambrette seed', 8)			0.6841883672664832
+('{descriptor} brazilian acai berry', 9)			0.6839951282416021
+('white musk {descriptor}', 11)			0.6837251371121946
+('composition {descriptor}', 11)			0.6834833966971549
+('magnolia {descriptor}', 11)			0.6833901163288697
+('cistus flower {descriptor}', 10)			0.6833393711803102
+('{descriptor} orris', 17)			0.6826148712855533
+('cranberry {descriptor}', 14)			0.6824290614725328
+('{descriptor} floral rose', 23)			0.6823673830356163
+('turmeric {descriptor}', 10)			0.6819566227203446
+('{descriptor} coriader', 15)			0.6819376289008039
+('weak waxy hydrocabon {descriptor}', 16)			0.68142039489331
+('good stability {descriptor}', 8)			0.6809552121295792
+('{descriptor} blending', 16)			0.680934268713925
+('honey rose {descriptor}', 7)			0.6809221363153755
+('{descriptor} unpleasant', 16)			0.680804183934608
+('{descriptor} tahitian vanilla', 12)			0.6805331724772711
+('sweet balsam coumarin {descriptor}', 7)			0.6803464146860432
+('vanilla grass {descriptor}', 11)			0.6802197619739654
+('nutty {descriptor}', 12)			0.6792705583401621
+('{descriptor} ylang ylang', 13)			0.6784911613249681
+('green fatty lactonic oily roasted nutty {descriptor}', 14)			0.6782057050425713
+('sweetness enhancer {descriptor}', 11)			0.6781585927097411
+('food {descriptor}', 11)			0.6778965832984252
+('mineral amber {descriptor}', 11)			0.6777358525973913
+('{descriptor} ferula gummosa root', 17)			0.6776942720632315
+('{descriptor} cucumis melo l', 6)			0.6776872018494154
+('{descriptor} sweet fruity peach balsamic', 17)			0.6776374598849698
+('bakery {descriptor}', 9)			0.6768717824548112
+('chocolate {descriptor}', 21)			0.6768581165118094
+('tobacco leaf {descriptor}', 11)			0.6764898041014091
+('its taste {descriptor}', 12)			0.6758577624785579
+('{descriptor} actual poundage data', 20)			0.6756686551129877
+('earthy cypress {descriptor}', 10)			0.6755540631723239
+('{descriptor} rhubarb leaf', 19)			0.6755177774377495
+('{descriptor} white florals', 12)			0.6754305126613835
+('{descriptor} lotus', 18)			0.6753067728039222
+('{descriptor} warm herbaceous almost spicy', 18)			0.6752757508391769
+('diffusive leather floral effect {descriptor}', 12)			0.6749234715835057
+('chinese ginger {descriptor}', 13)			0.6748811937488811
+('{descriptor} vanilla flower', 20)			0.6738556937325871
+('{descriptor} clean powerful', 13)			0.6737260550006401
+('{descriptor} beramot', 10)			0.6728049602065376
+('{descriptor} some musk character', 24)			0.6726286301043873
+('{descriptor} cereals', 18)			0.6722416177752981
+('sage {descriptor}', 16)			0.6722106966464649
+('damask rose {descriptor}', 6)			0.6718273941245636
+('{descriptor} rain', 21)			0.6714133767385296
+('tequila {descriptor}', 12)			0.6710503662410835
+('{descriptor} rose de mai', 8)			0.6708456244966614
+('{descriptor} egg', 16)			0.6704434339211013
+('{descriptor} hawthorn', 16)			0.6701361829169916
+('globular purple brown berries {descriptor}', 10)			0.6699884529332909
+('{descriptor} birch leaf', 20)			0.6698924179601102
+('cherry {descriptor}', 10)			0.6691820407877929
+('{descriptor} spearmint', 22)			0.6689961402946912
+('white mint {descriptor}', 6)			0.6689515665169661
+('pink peony {descriptor}', 13)			0.6685326545302355
+('myrrh {descriptor}', 8)			0.6681119564638391
+('aai berry {descriptor}', 10)			0.668077526094291
+('black teakwood {descriptor}', 8)			0.6680585700887767
+('cooling sensates {descriptor}', 7)			0.6672661959876256
+('{descriptor} floral lilac', 22)			0.667003609512741
+('{descriptor} cilantro', 24)			0.6664291219776457
+('{descriptor} australian sandalwood', 10)			0.6658191498208131
+('{descriptor} golden pear', 10)			0.6657656988428828
+('fruity solvent {descriptor}', 13)			0.6650631409700583
+('birch {descriptor}', 12)			0.6650209879182267
+('tiare {descriptor}', 12)			0.6650016396424845
+('{descriptor} sixty fifth meetings', 11)			0.6647718996190611
+('{descriptor} raspberry boysenberry', 17)			0.6641987194833427
+('any means {descriptor}', 10)			0.6641925405546614
+('grenadine {descriptor}', 11)			0.6641279379740329
+('herbal spicy savory minty balsamic carrot carvone {descriptor}', 7)			0.6639342360702205
+('castoreum sandalwood mysore {descriptor}', 17)			0.6638951075134881
+('only synthetic ingredients {descriptor}', 12)			0.6635542262744486
+('dried tobacco leaf {descriptor}', 8)			0.6631973554921824
+('whipped cream {descriptor}', 13)			0.6630694176959524
+('{descriptor} papaya', 8)			0.6629233213285338
+('{descriptor} egyptian geranium rose', 23)			0.6628085900396865
+('{descriptor} haitan vetiver', 12)			0.6624538001569987
+('hyrax {descriptor}', 7)			0.6623411248813778
+('mandarin tangerine cognac {descriptor}', 9)			0.6621450811198268
+('juniper berries {descriptor}', 12)			0.662121139610033
+('banana {descriptor}', 11)			0.6619892305863432
+('{descriptor} fresh floral fruity clean rose bergamot', 23)			0.6610365158392884
+('sweet taste {descriptor}', 11)			0.660552370403901
+('fluff musk {descriptor}', 6)			0.6605440488119946
+('ando {descriptor}', 10)			0.6602614596365115
+('spring mimosa blossoms {descriptor}', 14)			0.6600725851378222
+('oily fatty meaty savory {descriptor}', 14)			0.6597826193803826
+('especially thiol {descriptor}', 9)			0.6589999394407116
+('{descriptor} slight green powdery melon', 6)			0.658748848488654
+('{descriptor} brandy', 9)			0.658474743353645
+('{descriptor} sweet woods', 7)			0.6584153465347619
+('aloe {descriptor}', 11)			0.6578091667740804
+('{descriptor} piper pedicellosum', 23)			0.6577612719355588
+('myrtle leaf {descriptor}', 9)			0.6575173194006187
+('fruity pineapple {descriptor}', 13)			0.6571265236476613
+('vermouth {descriptor}', 8)			0.6569128710789814
+('{descriptor} amaretto coffee', 17)			0.6567425854583512
+('{descriptor} orange leaves', 18)			0.6566997705098674
+('meat products {descriptor}', 15)			0.6566721147715426
+('{descriptor} rosewater', 18)			0.656224843799123
+('{descriptor} wasabi', 17)			0.6558968414471189
+('bourbon whisky {descriptor}', 10)			0.6558526738523744
+('yellow cake batter {descriptor}', 11)			0.6554994227006217
+('hina {descriptor}', 8)			0.6554992501450863
+('{descriptor} lychee', 23)			0.6550329920463613
+('red mandarin {descriptor}', 7)			0.6546290664953025
+('oniongarlic {descriptor}', 15)			0.6545991448897301
+('{descriptor} annual wormwood', 11)			0.654257973623822
+('{descriptor} ppm', 8)			0.6538209074969179
+('whiskey wine {descriptor}', 11)			0.6536634278577708
+('{descriptor} pink magnolia', 24)			0.6536061613349546
+('{descriptor} bothriomyrmex syrius forel', 13)			0.6533297584453848
+('calone {descriptor}', 8)			0.6532314560444159
+('{descriptor} this ester', 12)			0.6529091720270586
+('{descriptor} rose centifolia stems', 12)			0.6528514224985643
+('{descriptor} lilac', 20)			0.6527880489888958
+('new grasses {descriptor}', 9)			0.6526781569357318
+('{descriptor} garden dill', 11)			0.6515597240836757
+('previous status {descriptor}', 9)			0.6515050108219712
+('{descriptor} preserve', 13)			0.6514369893301185
+('{descriptor} golden trumpet', 9)			0.6512085682462541
+('{descriptor} blackcurrant buds', 18)			0.6510284492434313
+('{descriptor} fema no', 16)			0.6509275591496806
+('taste {descriptor}', 16)			0.6505115668366956
+('{descriptor} lavender absolute', 21)			0.65010036866166
+('castoreum tincture {descriptor}', 11)			0.6498596528417007
+('honey {descriptor}', 15)			0.6496694900719903
+('{descriptor} narcissus absolute', 18)			0.6487487551119543
+('ylang ylang orange mandarin benzoin peru balsam {descriptor}', 10)			0.6480835265915059
+('{descriptor} ambrette seeds', 11)			0.6479557317789848
+('oriental fragrances {descriptor}', 11)			0.6476072194740727
+('lotus flower {descriptor}', 10)			0.6474147224322497
+('{descriptor} burley tobacco', 14)			0.6471424907683021
+('jacaranda {descriptor}', 7)			0.647108800173074
+('angelica {descriptor}', 12)			0.6465844506519633
+('petitgrain citronnier {descriptor}', 11)			0.6465640548652237
+('{descriptor} golden sundust orchid', 7)			0.6451810100290143
+('gunpowder {descriptor}', 11)			0.6450537413743694
+('passion {descriptor}', 9)			0.6444732435049224
+('{descriptor} specifications', 19)			0.6443309969700246
+('orange pulp {descriptor}', 19)			0.6436703451416883
+('sea buckthorn {descriptor}', 6)			0.6435177700882928
+('allium {descriptor}', 11)			0.6434844846861966
+('{descriptor} mint blossom', 16)			0.6431807785650229
+('camphor {descriptor}', 7)			0.6424196671368838
+('{descriptor} michelia champaca', 14)			0.6422753991393543
+('liquorice {descriptor}', 12)			0.6421954590513941
+('j {descriptor}', 10)			0.6420768283554735
+('{descriptor} madagascan vanilla', 24)			0.6411356545642937
+('olive flower {descriptor}', 9)			0.6404679978589032
+('{descriptor} styrax', 12)			0.6404026260548052
+('{descriptor} song of norway iris', 18)			0.6402152548588811
+('caraway {descriptor}', 11)			0.6401291900103832
+('{descriptor} sweet strawberry melon character melon type flavors', 19)			0.6399445687897031
+('henna {descriptor}', 10)			0.63991581653291
+('{descriptor} johannes panten', 19)			0.6398628720784343
+('artificial licorice flavored candies {descriptor}', 20)			0.6392574718314986
+('almond {descriptor}', 8)			0.63881892516287
+('{descriptor} black carob', 10)			0.6379272611565832
+('pistachio {descriptor}', 15)			0.6379181103563032
+('datura {descriptor}', 8)			0.6373708308157638
+('{descriptor} jam', 18)			0.6370736033637105
+('clove leaf {descriptor}', 9)			0.6369171939325998
+('{descriptor} black cherry', 10)			0.6366580677064295
+('{descriptor} fruity green', 21)			0.6365223978169501
+('{descriptor} fas', 17)			0.6362988210617166
+('qualities {descriptor}', 12)			0.6357540300467992
+('{descriptor} coe no', 18)			0.6348029256204396
+('atlas cedar {descriptor}', 8)			0.634421104028022
+('green vegetable {descriptor}', 15)			0.6341648240333146
+('plum blossom {descriptor}', 10)			0.6338200486684707
+('{descriptor} fruity tropical apricot', 17)			0.6335786021911798
+('fossilized amber resin {descriptor}', 8)			0.6332680507395664
+('fresh jasmin aldehydic sweet hyacinth {descriptor}', 17)			0.6329709696819695
+('burm gurjun resin {descriptor}', 16)			0.6322835890803179
+('orange {descriptor}', 17)			0.6315045489074469
+('ethyl {descriptor}', 10)			0.6314685539771279
+('fish products {descriptor}', 9)			0.6313465336871086
+('wild fennel {descriptor}', 11)			0.6290699108808843
+('natural homoeriodictyol {descriptor}', 9)			0.6289922140766129
+('{descriptor} th meeting', 13)			0.6288014199250557
+('rat {descriptor}', 12)			0.6286920598165924
+('birchwood {descriptor}', 8)			0.6286398448492558
+('petitgrain {descriptor}', 10)			0.6279942393194424
+('driftwood {descriptor}', 8)			0.6279744341169531
+('{descriptor} capsicum varieties', 16)			0.6273667449755442
+('bright flowers {descriptor}', 8)			0.6260595254057663
+('white flowers {descriptor}', 9)			0.6259606041885967
+('pheromone {descriptor}', 10)			0.6255845495802865
+('exotic fruits {descriptor}', 12)			0.6253156832983553
+('siamese benzoin {descriptor}', 8)			0.6249153117089905
+('{descriptor} naringenin', 15)			0.6249133752671305
+('{descriptor} ylang', 17)			0.6248522099596845
+('quintessence {descriptor}', 9)			0.6244268047762512
+('lemon myrtle {descriptor}', 10)			0.624380498453646
+('sweet rye bread {descriptor}', 8)			0.6241947021254995
+('{descriptor} fir balm', 8)			0.6239707977107934
+('macrocyclic musk {descriptor}', 11)			0.6237591332046493
+('{descriptor} clove bud', 18)			0.6227344297303565
+('pumpkin {descriptor}', 19)			0.6223786726360134
+('terpineol {descriptor}', 9)			0.6220043015685215
+('{descriptor} china musk', 7)			0.6211370243193064
+('rose bases {descriptor}', 10)			0.62104839761107
+('campfire {descriptor}', 11)			0.6208097059849154
+('fruity herbal clear buchu leaves blackcurrant cassis {descriptor}', 22)			0.6207076139458738
+('coffee arabica {descriptor}', 13)			0.6205241499272657
+('florentine orris {descriptor}', 12)			0.6201236221350444
+('asian pear {descriptor}', 10)			0.6191642939450586
+('petrichor {descriptor}', 11)			0.6184498066309883
+('phenoxypropanol {descriptor}', 10)			0.6181700905654496
+('raspberrypomegranate {descriptor}', 16)			0.6165350195594999
+('{descriptor} eg ferula foetida', 17)			0.6163911739753978
+('floral jasmin gardenia tuberose {descriptor}', 13)			0.615757316159202
+('patchouli heart {descriptor}', 16)			0.6153139363432847
+('lily {descriptor}', 17)			0.6149976290191055
+('{descriptor} berry top', 20)			0.6139853089352532
+('japan {descriptor}', 10)			0.6139445379001705
+('propylene glycol {descriptor}', 8)			0.6132033287441403
+('{descriptor} delicate flower type creations', 16)			0.6128859779992797
+('sweet vanilla {descriptor}', 11)			0.6127799161895406
+('{descriptor} ambergris', 22)			0.6124368285094588
+('poultry {descriptor}', 9)			0.6123851445338209
+('angelica root {descriptor}', 15)			0.6116081508532725
+('astringent {descriptor}', 8)			0.6104276305722729
+('cinnamon bark {descriptor}', 10)			0.6103257112285327
+('coconut cream {descriptor}', 17)			0.609130621538464
+('{descriptor} cantaloupe', 20)			0.608996009277045
+('{descriptor} hyacinth compositions', 15)			0.6084319023875101
+('cyclopentadecanolide {descriptor}', 16)			0.6081243870228051
+('papyrus {descriptor}', 8)			0.6078829367109819
+('formation {descriptor}', 10)			0.6077467042012419
+('{descriptor} onion', 16)			0.6075230097570088
+('potential carcinogenicity {descriptor}', 10)			0.607420402743889
+('boletus {descriptor}', 11)			0.6071499053948335
+('geranium leaf {descriptor}', 14)			0.6071334461794549
+('malt whisky {descriptor}', 13)			0.6063746990841141
+('ionone balsam {descriptor}', 9)			0.6053724511887404
+('creaminess {descriptor}', 12)			0.6043418603026731
+('firmenich {descriptor}', 8)			0.6034306511879723
+('{descriptor} bay laurel', 18)			0.6031611985896119
+('this product {descriptor}', 17)			0.6025908043097936
+('series number {descriptor}', 10)			0.6025669380818903
+('{descriptor} acacia honey', 17)			0.6019741658757576
+('ambrette crystals {descriptor}', 10)			0.6016996585488255
+('ambrox {descriptor}', 10)			0.6012987758135393
+('peppercorn {descriptor}', 13)			0.600284003860228
+('dairy {descriptor}', 9)			0.5998995496061978
+('{descriptor} vitus labrusca l', 12)			0.5997708880541803
+('basil leaves {descriptor}', 13)			0.5994708349733837
+('black sugar {descriptor}', 14)			0.5993032868511678
+('vetiver {descriptor}', 11)			0.5991359002013876
+('citrus {descriptor}', 19)			0.5981641836768721
+('{descriptor} sugar syrup', 18)			0.5978772460793372
+('mustard {descriptor}', 17)			0.5976725616723493
+('clary sage {descriptor}', 15)			0.5969906386810905
+('{descriptor} lebensm wiss u technol', 18)			0.5966933488931653
+('earth {descriptor}', 21)			0.5966500345697674
+('fnp {descriptor}', 8)			0.596388927891335
+('beef fat {descriptor}', 17)			0.5956133997469519
+('heptanoic acid {descriptor}', 13)			0.5954604273065603
+('chinese cinnamon {descriptor}', 15)			0.5954232040835723
+('paperwhites {descriptor}', 9)			0.5948769441775545
+('{descriptor} tutti frutti rum', 8)			0.5946254693689508
+('weak rose {descriptor}', 9)			0.593453018604678
+('cut stems {descriptor}', 12)			0.5930005103278266
+('et {descriptor}', 10)			0.5926535782923368
+('cyclohexyl disulfide {descriptor}', 17)			0.592435967599221
+('corn crunch {descriptor}', 9)			0.592279029374659
+('yuzu {descriptor}', 14)			0.5922413201226253
+('virginia tobacco {descriptor}', 8)			0.5919859851981777
+('{descriptor} jan', 21)			0.5907281172959491
+('burned wood {descriptor}', 13)			0.5882640246928077
+('{descriptor} rhubafurane', 10)			0.5878015891265456
+('nitromusks {descriptor}', 10)			0.5870013846151649
+('{descriptor} regular', 17)			0.5862352895337851
+('{descriptor} coconut co', 24)			0.5860916262476222
+('{descriptor} poivrol', 17)			0.5855389815400859
+('{descriptor} treemoss', 22)			0.5853863988741096
+('{descriptor} yellow italian mandarin', 20)			0.5841771473367319
+('allspice {descriptor}', 8)			0.58368336884488
+('sherry cask {descriptor}', 9)			0.582350356164154
+('gelatinspuddings {descriptor}', 13)			0.5822830957805808
+('orris concrete {descriptor}', 9)			0.5816663187875173
+('green oily floral tropical petal waxy {descriptor}', 11)			0.5816093318992546
+('{descriptor} bonito', 22)			0.5812754827571349
+('fruity green watery honeydew {descriptor}', 17)			0.580884875921268
+('turkish rose {descriptor}', 11)			0.5807509301971997
+('flavors {descriptor}', 17)			0.5804258250135595
+('slight woody {descriptor}', 15)			0.5788662064695876
+('calamus {descriptor}', 13)			0.578165254787126
+('cardamom {descriptor}', 10)			0.5775508776952322
+('propylpyrazine {descriptor}', 13)			0.5772953795594712
+('odour types {descriptor}', 13)			0.5766605353763834
+('elderwood {descriptor}', 8)			0.5764072145466442
+('isopropyl n trimethylbutyramide {descriptor}', 12)			0.5752692534478143
+('{descriptor} caramel fruity jam', 18)			0.57508311757002
+('{descriptor} snowdrop flower', 22)			0.5746256853969676
+('orange flower {descriptor}', 11)			0.5738484296725094
+('meat {descriptor}', 20)			0.5733276534198802
+('balsamic aspects {descriptor}', 9)			0.5726237030402945
+('gooseberry {descriptor}', 20)			0.5717996027866872
+('spice {descriptor}', 15)			0.5710809762446498
+('dairy cream {descriptor}', 14)			0.5706695643864979
+('{descriptor} coe field', 20)			0.5698995212224321
+('sweet cinnamon {descriptor}', 13)			0.5690037975076802
+('dark caribbean rum {descriptor}', 11)			0.5687468058823686
+('{descriptor} only anticipated annual volumes', 13)			0.5682743452248413
+('pine needle {descriptor}', 14)			0.5682199744392906
+('flax {descriptor}', 14)			0.5680370372344137
+('very powerful {descriptor}', 11)			0.5675938025990224
+('chamomile {descriptor}', 9)			0.5670131532299377
+('cherry blossom {descriptor}', 16)			0.566538199833788
+('high cis methyl pentenoic acid {descriptor}', 14)			0.5664875490846497
+('{descriptor} rose maroc', 20)			0.5653035095517281
+('{descriptor} burrata cheese', 19)			0.5645276168906418
+('geraniol {descriptor}', 11)			0.5639956469497966
+('powder {descriptor}', 17)			0.5639032989662776
+('texas cedar {descriptor}', 9)			0.5638407281327084
+('{descriptor} orange blossom absolute', 17)			0.5634674472431385
+('tone {descriptor}', 14)			0.5627143864160251
+('{descriptor} cola sweets', 18)			0.5626704675519832
+('coumarin tonka {descriptor}', 10)			0.5625380311458058
+('{descriptor} white cedarwood', 15)			0.5623793957720138
+('camellia sasanka {descriptor}', 11)			0.5616823504828572
+('oakmoss resinoid {descriptor}', 17)			0.5616583204300241
+('greek labdanum {descriptor}', 8)			0.5615164914535979
+('nagarmotha {descriptor}', 12)			0.5590946895900626
+('main ingredient {descriptor}', 24)			0.5586666116057435
+('{descriptor} citral', 22)			0.5585832609780197
+('burnt roasted crisp bacon {descriptor}', 15)			0.5578527341527313
+('castoreum {descriptor}', 10)			0.5577922023097677
+('sweet floral berry {descriptor}', 15)			0.5557017915060101
+('dandelion {descriptor}', 15)			0.5551588305114815
+('liquid caramel {descriptor}', 20)			0.5550279092162449
+('green flavor {descriptor}', 24)			0.5547163677044284
+('caramelized sugar {descriptor}', 14)			0.5546973040356462
+('peas {descriptor}', 11)			0.553827720446814
+('brown oakmoss {descriptor}', 8)			0.5532922117898048
+('pimento berry {descriptor}', 17)			0.552852335749225
+('metallic {descriptor}', 24)			0.5514994395900849
+('fresh fruity green pineapple {descriptor}', 15)			0.5509329691685453
+('{descriptor} nature', 19)			0.5506215356659597
+('freesia {descriptor}', 11)			0.5498271916406182
+('benzyl acetate {descriptor}', 15)			0.5495313140895902
+('jasmine sambac absolute {descriptor}', 20)			0.5494787921851136
+('tomato leaves {descriptor}', 15)			0.5488495176382789
+('banana berry {descriptor}', 16)			0.548031396173168
+('hyacinth {descriptor}', 10)			0.5477902930515208
+('deer musk powder {descriptor}', 10)			0.5471528103414154
+('{descriptor} griotte syrup', 22)			0.5466752651599915
+('floral {descriptor}', 12)			0.5464710464212935
+('italian lime {descriptor}', 18)			0.5463223540640312
+('aquatic {descriptor}', 12)			0.5459586703675754
+('moss earth {descriptor}', 17)			0.5450404559878372
+('rose tobacco {descriptor}', 11)			0.5447473097216082
+('hesperidic {descriptor}', 16)			0.544185260763455
+('centifolia rose absolute {descriptor}', 13)			0.5432980169995234
+('sweet smooth spearmint carvone minty spearmint {descriptor}', 22)			0.5431511366452206
+('white freesia {descriptor}', 13)			0.5430085994060924
+('flavor creation {descriptor}', 16)			0.5426816436290433
+('{descriptor} maximum average use levels', 18)			0.5414692426275425
+('{descriptor} blond tobacco', 17)			0.5413195753507959
+('musty fatty sweet {descriptor}', 18)			0.5413167709719554
+('{descriptor} heliotropin', 23)			0.5401201827805431
+('tuscan leather {descriptor}', 13)			0.5396863337441711
+('musk tonkin {descriptor}', 13)			0.5395583057669279
+('peru balsam {descriptor}', 12)			0.5382522250471069
+('{descriptor} hinoki', 17)			0.5381564453863729
+('{descriptor} mexican cocoa', 20)			0.5374517261683668
+('jams {descriptor}', 20)			0.5374115504315584
+('{descriptor} indian ajowan', 10)			0.5360672318439778
+('blackberry {descriptor}', 14)			0.5354599827207422
+('dimethyl {descriptor}', 17)			0.5347595300734301
+('mosciano {descriptor}', 12)			0.5347588654794877
+('french {descriptor}', 10)			0.5336244020860288
+('melilot {descriptor}', 9)			0.532682116505764
+('{descriptor} geranium rose', 20)			0.5322656468599228
+('forest {descriptor}', 10)			0.5312261719347346
+('hybrid hardy character {descriptor}', 15)			0.5294970100764396
+('boelens {descriptor}', 11)			0.5293582017209741
+('taif rose {descriptor}', 11)			0.5281958229518366
+('green woody earthy musty moss oily wood {descriptor}', 21)			0.5278202109392289
+('natural products {descriptor}', 16)			0.5276203025125307
+('suede orris {descriptor}', 12)			0.527394957611713
+('cresol {descriptor}', 16)			0.5273578635921912
+('n {descriptor}', 10)			0.5261518375058787
+('tolu balsam resinoid {descriptor}', 18)			0.5255376026878922
+('coumarin {descriptor}', 13)			0.5247628625849354
+('grape brandy {descriptor}', 17)			0.524638690530682
+('{descriptor} opoponax', 22)			0.5236302566723838
+('jasmine teacreations {descriptor}', 13)			0.5236265326054066
+('sweet green herbal dill {descriptor}', 23)			0.5229805173581994
+('marjoram {descriptor}', 9)			0.52213984005359
+('bleach {descriptor}', 8)			0.5218786224380354
+('flavours {descriptor}', 23)			0.5211397053780088
+('{descriptor} haitian vetiver', 18)			0.5207429148133922
+('fresh woody {descriptor}', 15)			0.5199253671541654
+('cassia {descriptor}', 11)			0.5194273526553654
+('patchouli {descriptor}', 16)			0.518884279685223
+('orange floral fatty peach {descriptor}', 23)			0.5185396957713989
+('g {descriptor}', 15)			0.5185073228238007
+('blueberry {descriptor}', 16)			0.517625852894415
+('all types {descriptor}', 13)			0.5167881677492954
+('{descriptor} indonesian vetiver', 9)			0.5166224040891148
+('pyrazine {descriptor}', 13)			0.5158819994733623
+('jecfa no {descriptor}', 16)			0.5142660836292048
+('mentha arvensis {descriptor}', 13)			0.5135521004202663
+('rose chafer {descriptor}', 11)			0.5134497161319198
+('white amber musk {descriptor}', 17)			0.5132539740479483
+('conifer {descriptor}', 16)			0.5119280558853154
+('{descriptor} pyrus bretschneideri', 8)			0.5109359147386437
+('coriander {descriptor}', 15)			0.5107867353248629
+('floral creations {descriptor}', 11)			0.5106227062086148
+('woods {descriptor}', 12)			0.5092141999972615
+('laurel {descriptor}', 13)			0.5088398644998078
+('tunisian neroli {descriptor}', 14)			0.5084029436797112
+('roasted potato skin {descriptor}', 16)			0.5082259876321746
+('strawberry leaf {descriptor}', 17)			0.5081062218787218
+('rose {descriptor}', 16)			0.5078198970272181
+('{descriptor} dossinia', 21)			0.5077391697513929
+('{descriptor} amber resin', 18)			0.5074566231559507
+('indian sandalwood {descriptor}', 13)			0.5052456107048635
+('cypriol {descriptor}', 14)			0.5046418222521755
+('sweet orange {descriptor}', 19)			0.5042084493595105
+('african incense {descriptor}', 16)			0.50376564516115
+('gourmand {descriptor}', 10)			0.5034720729116993
+('peruvian pepper {descriptor}', 16)			0.5033003998782051
+('fir needle {descriptor}', 14)			0.5022512725728103
+('warm powdery spicy clove {descriptor}', 20)			0.5018580683553296
+('chocolate rum {descriptor}', 19)			0.5014484005234515
+('ivy {descriptor}', 23)			0.5005794105123018
+('current estimated intake {descriptor}', 12)			0.5000896537181649
+('mandarin pulp {descriptor}', 17)			0.4990534255024402
+('oakmoss {descriptor}', 13)			0.4987192823215605
+('tropical fruit complexes {descriptor}', 19)			0.49849823238326574
+('soap {descriptor}', 20)			0.4982739584040022
+('cooked pork {descriptor}', 19)			0.4973305400469703
+('ammonia {descriptor}', 16)			0.4966615823074255
+('smoked beech wood {descriptor}', 19)			0.49662743710301394
+('ethereal horseradish {descriptor}', 15)			0.49643498106227124
+('pearly musk {descriptor}', 13)			0.49602622108890604
+('buddleia {descriptor}', 17)			0.496013210678128
+('jasmine complexes {descriptor}', 17)			0.4951868421326134
+('calabrian bergamot {descriptor}', 8)			0.495141605755142
+('iris {descriptor}', 12)			0.4950534174084257
+('anise liquorice facets {descriptor}', 16)			0.49477925182931926
+('musk powdery fruity {descriptor}', 17)			0.4941616034793107
+('lavandin {descriptor}', 8)			0.4941568137081494
+('beef broth {descriptor}', 21)			0.4938512675584955
+('chocolate mousse {descriptor}', 13)			0.4907045986961333
+('{descriptor} model studies', 19)			0.4905879376241079
+('egyptian geranium {descriptor}', 9)			0.49046454783048565
+('one place {descriptor}', 14)			0.48913670225315364
+('kiwi {descriptor}', 22)			0.4890712591259631
+('green heart wood {descriptor}', 16)			0.4887371964781944
+('cherry wood {descriptor}', 11)			0.4881474922249225
+('council {descriptor}', 24)			0.48647880541811606
+('warm caramel {descriptor}', 18)			0.4858651296589393
+('burnt sulfurous cocoa {descriptor}', 18)			0.4857428061069923
+('ethenyltetrahydro {descriptor}', 13)			0.4855560700273121
+('solution {descriptor}', 13)			0.4851892314755597
+('{descriptor} brazilian vetiver', 22)			0.48514760467501533
+('coconut character {descriptor}', 19)			0.48498210042630274
+('crushed mint {descriptor}', 14)			0.48444853402654875
+('champaca {descriptor}', 17)			0.4823982130719985
+('champagne {descriptor}', 16)			0.4823314087335442
+('sweet creamy vanilla caramel {descriptor}', 16)			0.48170358904512944
+('{descriptor} arrack', 22)			0.4814347857084652
+('fermented soya hydrolysate {descriptor}', 17)			0.4810478263512007
+('siberian fir {descriptor}', 11)			0.48062957452417904
+('sandalwood blend {descriptor}', 21)			0.4801987268729584
+('conclusions {descriptor}', 16)			0.47812879983472073
+('costfirmenich {descriptor}', 14)			0.477919175535541
+('creamy amber {descriptor}', 17)			0.4775661487559112
+('numbing {descriptor}', 15)			0.4766433177242681
+('indian oud {descriptor}', 10)			0.47579972724303354
+('sweet musk {descriptor}', 18)			0.47521766258669046
+('such wide range {descriptor}', 12)			0.4746916347408173
+('minty {descriptor}', 14)			0.47428806117967914
+('madagascan black pepper {descriptor}', 22)			0.4729624675157867
+('{descriptor} no safety concern', 23)			0.4725562365141538
+('mandarin leaves {descriptor}', 14)			0.47238564364027413
+('spanish labdanum {descriptor}', 9)			0.47233505414500687
+('tuberose absolute {descriptor}', 18)			0.47065723422066397
+('applications {descriptor}', 15)			0.46847273958599667
+('siam benzoin {descriptor}', 14)			0.4683671652945846
+('green waxy slightly metallic {descriptor}', 17)			0.46687481670703657
+('nutty vegetable crackers {descriptor}', 19)			0.46637127670499623
+('bay {descriptor}', 16)			0.4632209132680726
+('cabbage {descriptor}', 17)			0.46206143207009187
+('clean fresh {descriptor}', 13)			0.4615372466474049
+('phenolic burnt truffle {descriptor}', 21)			0.4612943235871442
+('variety {descriptor}', 14)			0.46075157050502075
+('saffron {descriptor}', 19)			0.4600951429579796
+('spicy citrus {descriptor}', 22)			0.4583296491711139
+('europe {descriptor}', 10)			0.45746140408811586
+('mango {descriptor}', 20)			0.4568125883355124
+('nonanal {descriptor}', 17)			0.45650105593442947
+('raspberry sherbet {descriptor}', 20)			0.45611326301974986
+('frostings {descriptor}', 14)			0.45589450231691564
+('hbk berg fruit {descriptor}', 18)			0.4552992872514375
+('blueberry white tea {descriptor}', 22)			0.4538349821560603
+('no smell {descriptor}', 18)			0.45287947695890174
+('diffusion {descriptor}', 18)			0.45252514524698595
+('fragrances {descriptor}', 20)			0.4518515767535661
+('metals limits {descriptor}', 16)			0.45183904862158136
+('squid {descriptor}', 21)			0.4513358428721212
+('pine {descriptor}', 19)			0.4496564349078003
+('pretzel {descriptor}', 16)			0.44876850411665775
+('solid {descriptor}', 20)			0.44863922349903773
+('cistrose {descriptor}', 13)			0.4470374838802254
+('citrus lime {descriptor}', 19)			0.4467307408727187
+('water fruits {descriptor}', 15)			0.44532816036598316
+('perfumer {descriptor}', 14)			0.44452817995660077
+('pink pepper {descriptor}', 18)			0.44295098860973603
+('wild musk {descriptor}', 18)			0.4426036303174026
+('joint faowho expert committee {descriptor}', 10)			0.44241956381986874
+('warm spices {descriptor}', 16)			0.44197737849808605
+('palm leaf {descriptor}', 12)			0.441082886421433
+('sweet marjoram {descriptor}', 15)			0.4403503080082507
+('powdery {descriptor}', 24)			0.43955644382485104
+('fresh soft {descriptor}', 16)			0.4389107344028158
+('normal use levels {descriptor}', 16)			0.43743782759802885
+('absinthe {descriptor}', 20)			0.4367268966552596
+('meaty roasted savory fatty pork {descriptor}', 17)			0.4359895501353256
+('sheer woods {descriptor}', 17)			0.4350391545483815
+('endive {descriptor}', 19)			0.43444596404543845
+('cashmeran wood {descriptor}', 16)			0.434002520651838
+('green apple {descriptor}', 22)			0.4336599279079843
+('rwandan patchouli {descriptor}', 18)			0.4330416968168088
+('green grapefruit {descriptor}', 14)			0.4315592331576631
+('th edition {descriptor}', 15)			0.43127086524854047
+('sencha tea {descriptor}', 24)			0.4302816651413993
+('salycilates {descriptor}', 13)			0.42940608282810167
+('sake {descriptor}', 15)			0.4287114524210714
+('balsam {descriptor}', 20)			0.4257745938602425
+('passion flower {descriptor}', 18)			0.4218349614562695
+('{descriptor} anjou pear tree blossom', 14)			0.41932112944993155
+('stem {descriptor}', 18)			0.4188722075938077
+('wild cherry {descriptor}', 23)			0.4158767307487499
+('black thyme {descriptor}', 16)			0.41555503020815565
+('excellent blending agent {descriptor}', 20)			0.41246730656329217
+('champaca absolute {descriptor}', 19)			0.4122452772293693
+('united states patent {descriptor}', 18)			0.4119065439128115
+('strong crystals {descriptor}', 23)			0.41170564950947364
+('ethyl iinalool {descriptor}', 24)			0.41123244728280095
+('this material {descriptor}', 16)			0.4109285552908002
+('most successful perfume chemicals {descriptor}', 22)			0.4101610367981528
+('chemical names {descriptor}', 11)			0.4100594765486548
+('anjou pear {descriptor}', 22)			0.40927354437231134
+('hexanoic acid {descriptor}', 18)			0.408889602571479
+('seasonings {descriptor}', 21)			0.4084639661195147
+('trace levels {descriptor}', 12)			0.40838070190441694
+('solvents {descriptor}', 16)			0.40468915165132696
+('l {descriptor}', 18)			0.4038599762404109
+('beeswax {descriptor}', 13)			0.4020824004301616
+('their portfolio {descriptor}', 12)			0.39804539303996944
+('quest international {descriptor}', 13)			0.39684823511563816
+('citrus cola {descriptor}', 16)			0.3934893643790919
+('crc press {descriptor}', 16)			0.39283116538500695
+('haitian sandalwood {descriptor}', 21)			0.3917410894015423
+('flavored ragout {descriptor}', 23)			0.38913667365560034
+('{descriptor} moss bank', 14)			0.3884770043187781
+('higher level {descriptor}', 17)			0.38676562879869403
+('cistus {descriptor}', 17)			0.3867054300579628
+('body lotion {descriptor}', 22)			0.3854749420543018
+('french fries {descriptor}', 14)			0.3851332441994496
+('suderol {descriptor}', 19)			0.38420340805943515
+('ring {descriptor}', 18)			0.3839901477259012
+('not terebinthinate {descriptor}', 17)			0.38383978793174506
+('sweet mint {descriptor}', 18)			0.3836235979098206
+('sweet ripe fruity apple pear pineapple grape {descriptor}', 17)			0.38360781558869506
+('genet {descriptor}', 18)			0.3817430394802251
+('terpene {descriptor}', 20)			0.378594979271499
+('helichrysum {descriptor}', 18)			0.37823386352671906
+('half {descriptor}', 15)			0.377699059130296
+('bucchu leaf {descriptor}', 16)			0.37718446328861555
+('elderberry {descriptor}', 22)			0.37703302670203087
+('coffee flavor chemistry {descriptor}', 24)			0.37698157154359957
+('somalian frankincense {descriptor}', 23)			0.3767539077612885
+('enhanced white floral effect {descriptor}', 20)			0.3756760526617622
+('savory roasted meaty {descriptor}', 17)			0.37553364140890844
+('ambrofix {descriptor}', 20)			0.37502080454282644
+('cyclamen {descriptor}', 18)			0.37462461447402406
+('rain dew {descriptor}', 22)			0.373889735056271
+('tulip {descriptor}', 20)			0.37130633270701485
+('fifth edition {descriptor}', 16)			0.3712579120425751
+('this noble profile {descriptor}', 19)			0.37081904802909504
+('tobacco absolute {descriptor}', 17)			0.36992716409389137
+('{descriptor} sinensis schneid', 23)			0.3697660478883736
+('compendium addendum {descriptor}', 15)			0.368234625488594
+('sparkling grapefruit {descriptor}', 19)			0.3680512814218644
+('of malaga {descriptor}', 18)			0.36753317955473663
+('langsat fruit {descriptor}', 19)			0.36707420928898427
+('oregano {descriptor}', 16)			0.3669992613045273
+('syagrus romanzoffiana var australe {descriptor}', 13)			0.36486723215507344
+('geranium {descriptor}', 12)			0.36426457399927464
+('headspace {descriptor}', 14)			0.3636927936203683
+('rose centifolia {descriptor}', 12)			0.3631169727926631
+('natural {descriptor}', 23)			0.36305441666075333
+('date {descriptor}', 14)			0.3623331934588666
+('teakwood {descriptor}', 19)			0.36137476251721695
+('wisteria {descriptor}', 17)			0.360921049257153
+('cassis sorbet {descriptor}', 13)			0.3604501969509458
+('june {descriptor}', 12)			0.36025981773069116
+('isopropyl methoxypyrazine {descriptor}', 16)			0.35918581517004644
+('white lily {descriptor}', 18)			0.35882101105872
+('fruity sweet pineapple {descriptor}', 22)			0.35839430288230234
+('tox monograph {descriptor}', 23)			0.3579227102319849
+('heavy fruity flavor {descriptor}', 19)			0.35763367399306967
+('toasted almond cream {descriptor}', 23)			0.357122330710757
+('cinnamic {descriptor}', 24)			0.35493705278121385
+('fruity {descriptor}', 23)			0.3544826365371518
+('virginia cedarwood {descriptor}', 19)			0.3543616241447133
+('white orris {descriptor}', 19)			0.35325221580173427
+('pink lotus {descriptor}', 23)			0.3513362316181059
+('crocus sativus {descriptor}', 14)			0.34901484895804447
+('roughly equal proportions {descriptor}', 15)			0.34804815036686787
+('iris absolu {descriptor}', 15)			0.3476147145228212
+('palm rosa {descriptor}', 20)			0.3453651805816231
+('jasmin {descriptor}', 14)			0.3449729253924606
+('cosmone {descriptor}', 24)			0.34420466347700496
+('brown sugar {descriptor}', 19)			0.34416690824519436
+('freshness {descriptor}', 16)			0.34368435050509416
+('buddha wood {descriptor}', 22)			0.3407902374645712
+('oriental compositions {descriptor}', 18)			0.33887803255967347
+('kohlrabi {descriptor}', 18)			0.3378879972035002
+('yellow mandarin {descriptor}', 13)			0.3374236569192045
+('tagetes {descriptor}', 18)			0.3364980386379658
+('plumeria rubra l {descriptor}', 15)			0.3358870093296866
+('capsicum frutescens {descriptor}', 19)			0.33478690352577994
+('dalmation sage {descriptor}', 22)			0.3338745942614078
+('tea flavors {descriptor}', 23)			0.3334921201892229
+('fresh air {descriptor}', 13)			0.3330755420435181
+('ocean water {descriptor}', 24)			0.3311662345221563
+('osmanthus {descriptor}', 23)			0.3297890474278141
+('guava {descriptor}', 24)			0.32683710282959655
+('freshly cut grass {descriptor}', 20)			0.32371447009917764
+('yiang {descriptor}', 24)			0.32181910569911576
+('civet {descriptor}', 19)			0.3217523832059609
+('blue iris {descriptor}', 13)			0.32123549858161826
+('guarana {descriptor}', 17)			0.3189803241799553
+('myrrh gum {descriptor}', 20)			0.3180150211354295
+('bouillon {descriptor}', 17)			0.3130575017026269
+('current intake {descriptor}', 19)			0.31274861652687813
+('geranium compositions {descriptor}', 20)			0.31201417205895765
+('limbanol {descriptor}', 16)			0.3117560252626238
+('provence {descriptor}', 13)			0.3116491727827644
+('dulce de leche {descriptor}', 20)			0.3113083201247351
+('oud {descriptor}', 18)			0.3100344146901943
+('pomegranate {descriptor}', 23)			0.30979019402351704
+('pinewood {descriptor}', 23)			0.3089562815987196
+('vol {descriptor}', 23)			0.30747743943424477
+('heliotrope {descriptor}', 21)			0.30725762233443377
+('inexpensive masking doors {descriptor}', 22)			0.3061185576725335
+('grasse rose {descriptor}', 17)			0.30565215837902704
+('stephanotis {descriptor}', 18)			0.30534553632140415
+('dark cacao {descriptor}', 23)			0.30497955239699204
+('bay rum {descriptor}', 22)			0.30037589195951475
+('tarragon {descriptor}', 20)			0.29932968858670417
+('caramel custard {descriptor}', 22)			0.29882238127995275
+('base {descriptor}', 21)			0.2979691728315768
+('trs {descriptor}', 24)			0.2965608709758859
+('fennel {descriptor}', 23)			0.29561099136165686
+('waxy citrus peel slightly soapy citrus peel {descriptor}', 24)			0.2947243476249864
+('marigold {descriptor}', 22)			0.29277685568595047
+('meaty beef {descriptor}', 18)			0.29184493679127865
+('wet cobblestones {descriptor}', 15)			0.289558869071837
+('green cardamom {descriptor}', 16)			0.28919656294822965
+('more obnoxious {descriptor}', 23)			0.28878530533906527
+('praline {descriptor}', 18)			0.285299027502646
+('orange bigarade {descriptor}', 22)			0.28088625769440156
+('larch wood {descriptor}', 15)			0.2805373242754606
+('dewy leaves {descriptor}', 20)			0.2787104116691865
+('guatemalan cardamom {descriptor}', 17)			0.278433747130753
+('later editions {descriptor}', 22)			0.27726809928042495
+('white chocolate {descriptor}', 20)			0.2724925676704826
+('lime custard {descriptor}', 24)			0.27227627328066945
+('sassafras {descriptor}', 20)			0.2715019218342063
+('rhubarb {descriptor}', 15)			0.27103654667941174
+('blue tansy {descriptor}', 20)			0.2643364509531444
+('olive tree wood {descriptor}', 19)			0.2619742179330161
+('melon berry {descriptor}', 24)			0.26119475357101624
+('wild rose {descriptor}', 16)			0.2604837808507945
+('cassis {descriptor}', 16)			0.25985554439870157
+('latest evaluation {descriptor}', 24)			0.2598480576360691
+('mellow warm ginger {descriptor}', 15)			0.25755493927388606
+('light profile {descriptor}', 23)			0.2569125245634654
+('lonone {descriptor}', 20)			0.2566201465426441
+('mastigoproctus giganteus {descriptor}', 18)			0.2524233158790513
+('ambroxan {descriptor}', 22)			0.25128582068758887
+('fir balsam {descriptor}', 16)			0.2488714618024171
+('p {descriptor}', 18)			0.24682951797533498
+('nashi pear {descriptor}', 23)			0.24455144437853735
+('aldehyde {descriptor}', 21)			0.24140163707525303
+('cashmeran {descriptor}', 23)			0.23897068097214688
+('jasmine auriculatum {descriptor}', 17)			0.23786914734548154
+('tenacious ripe fleshy apricot {descriptor}', 22)			0.2355680641712114
+('total benzoic acid {descriptor}', 19)			0.23487462886133098
+('lavender blossom {descriptor}', 19)			0.2343911340712666
+('green waxy {descriptor}', 22)			0.2305295321148937
+('peppery terpene {descriptor}', 24)			0.22986063763642461
+('sweet william pear {descriptor}', 17)			0.22412540905691297
+('balsam fir {descriptor}', 17)			0.2174136276803439
+('cacao {descriptor}', 23)			0.2139775279776337
+('warm smooth sensual {descriptor}', 22)			0.211511440113967
+('some bread crust {descriptor}', 18)			0.21085373743943975
+('library dust {descriptor}', 21)			0.2103908316862898
+('sweet floral rose {descriptor}', 24)			0.20795855775684052
+('linalol {descriptor}', 23)			0.20356951786120608
+('petit verdot {descriptor}', 23)			0.19865460138183186
+('some years {descriptor}', 15)			0.1979498240339374
+('rose oleander {descriptor}', 23)			0.19238762594403094
+('balsamic floral fruity leafy leaf {descriptor}', 19)			0.1888954688676563
+('very elegant {descriptor}', 21)			0.18820168739852253
+('white cedar {descriptor}', 16)			0.18597654813826944
+('east african cedars {descriptor}', 13)			0.18296964671840535
+('boronia {descriptor}', 24)			0.1797802502976209
+('violets {descriptor}', 22)			0.17944579993167167
+('vert de bergamot {descriptor}', 18)			0.1785935614084535
+('pink grapefruit {descriptor}', 20)			0.1783844801082633
+('benzoin {descriptor}', 24)			0.17724829334665232
+('apricot flower {descriptor}', 19)			0.1752348580456881
+('olibanum {descriptor}', 19)			0.17206297078043306
+('akigalawood {descriptor}', 23)			0.16221988427905076
+('pink peppercorn {descriptor}', 20)			0.1596020567851026
+('italian grapefruit {descriptor}', 22)			0.15683751674043006
+('prickly pear {descriptor}', 21)			0.15532007540743037
+('moroccan atlas cedar {descriptor}', 20)			0.15139807673224157
+('italian bergamot {descriptor}', 23)			0.15025423805054516
+('white amber {descriptor}', 19)			0.13472065284346518
+('gerhard krammer {descriptor}', 23)			0.1330448185994685
+('opopanax pine fir styrax {descriptor}', 19)			0.1176411697351083
+('green fruity taste {descriptor}', 22)			0.11321877185712875
+('floral geranium grapefruit {descriptor}', 20)			0.11233469735054297
+('wild rhubarb {descriptor}', 20)			0.11038954232859056
+('egypt {descriptor}', 16)			0.103858111305468
+('cambodian oud {descriptor}', 20)			0.10343899198365737
+('rhurbarb {descriptor}', 22)			0.09625998887841603
+('yellow passion fruit {descriptor}', 18)			0.09462506213092421
+('lebanese cedar {descriptor}', 20)			0.08233746564995068
+('dry woods {descriptor}', 22)			0.07986258580108056
+('java vetiver {descriptor}', 24)			0.07574352891285693
+('mild sweet vanilla {descriptor}', 23)			0.056214209472908123
+('this number {descriptor}', 21)			0.04462419409984162
+('{descriptor} crab', 25)			0
+('bergamot {descriptor}', 26)			0
+('sunshine musk {descriptor}', 26)			0
+('{descriptor} magnolia geranium gardenia', 25)			0
+('lavindin {descriptor}', 25)			0
+('intoduction {descriptor}', 26)			0
+('{descriptor} dark chocolate', 26)			0
+('egyptian basil {descriptor}', 25)			0
+('ruh gulab {descriptor}', 25)			0
+('{descriptor} creamy coconut dry down', 26)			0
+('{descriptor} chrysanthemum', 26)			0
+('cinnamon toddy {descriptor}', 27)			0
+('use {descriptor}', 27)			0
+('{descriptor} japanese plum', 27)			0
+('cashmere woods {descriptor}', 27)			0
+('{descriptor} j agric food chem', 27)			0
+('rosewood {descriptor}', 27)			0
+('{descriptor} redcurrant', 27)			0
+('{descriptor} mahogany', 27)			0
+('{descriptor} water', 28)			0
+('damascene rose {descriptor}', 28)			0
+('{descriptor} cedrat', 28)			0
+('{descriptor} fruity nut taste', 27)			0
+('four member bench panel {descriptor}', 27)			0
+('cider {descriptor}', 28)			0
+('spicy {descriptor}', 28)			0
+('{descriptor} stale coffee sulphury character', 28)			0
+('cucumber savory {descriptor}', 28)			0
+('safety evaluation {descriptor}', 28)			0
+('antique lemongrass {descriptor}', 28)			0
+('{descriptor} this dilution', 28)			0
+('{descriptor} soybean', 28)			0
+('may rose {descriptor}', 27)			0
+('oily geranium {descriptor}', 26)			0
+('{descriptor} palisander wood', 26)			0
+('{descriptor} aldehydic waxy citrus', 25)			0
+('{descriptor} mountain papaya', 25)			0
+('{descriptor} considerable patience', 25)			0
+('ozone {descriptor}', 25)			0
+('eucalyptus {descriptor}', 21)			-0.033910817921094225
